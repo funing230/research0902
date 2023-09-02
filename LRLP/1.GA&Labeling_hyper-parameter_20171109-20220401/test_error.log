@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:/Users/ssel512/PycharmProjects/Finally_Research/0829/1.GA&Labeling_hyper-parameter_20171109-20220401/1---GA_based_labeling.py", line 241, in <module>
+    model.training()
+  File "C:/Users/ssel512/PycharmProjects/Finally_Research/0829/1.GA&Labeling_hyper-parameter_20171109-20220401/1---GA_based_labeling.py", line 146, in training
+    self.optimizer = GA.BaseGA(self.problem, GAepoch=self.GA_epoch,pop_size=self.pop_size, pc=0.7, pm=0.4)
+  File "D:\anaconda3\envs\torchGpu\lib\site-packages\mealpy\evolutionary_based\GA.py", line 84, in __init__
+    self.epoch = self.validator.check_int("epoch", epoch, [1, 100000])
+  File "D:\anaconda3\envs\torchGpu\lib\site-packages\mealpy\utils\validator.py", line 54, in check_int
+    raise ValueError(f"'{name}' is an integer {bound}.")
+ValueError: 'epoch' is an integer and value should be in range: [1, 100000].
