@@ -349,8 +349,7 @@ up_th = (z_score.rolling(window=slide_window,min_periods=1).mean()) + (z_score.r
 lw_th = (z_score.rolling(window=slide_window,min_periods=1).mean()) - (z_score.rolling(window=slide_window,min_periods=1).std() * (1-b))  # lower threshold
 up_th = up_th.dropna()
 lw_th = lw_th.dropna()
-# speed_up_th=(up_th.pct_change(1).dropna()).pct_change(1).dropna()
-# speed_lw_th=(lw_th.pct_change(1).dropna()).pct_change(1).dropna()
+
 rate_up_th=up_th.pct_change(1).dropna()
 rate_lw_th=lw_th.pct_change(1).dropna()
 training_dataset.insert(len(training_dataset.columns), 'up_th(-1)', rate_up_th.shift(1))
@@ -362,13 +361,7 @@ training_dataset.insert(len(training_dataset.columns), 'lw_th(-2)', rate_lw_th.s
 training_dataset.insert(len(training_dataset.columns), 'up_th(-3)', rate_up_th.shift(3))
 training_dataset.insert(len(training_dataset.columns), 'lw_th(-3)', rate_up_th.shift(3))
 
-# training_dataset.insert(len(training_dataset.columns), 'up_th(-4)', rate_up_th.shift(4))
-# training_dataset.insert(len(training_dataset.columns), 'lw_th(-4)', rate_up_th.shift(4))
 
-# rate_z_score=z_score.pct_change(1).dropna()
-#
-# training_dataset.insert(len(training_dataset.columns), 'up_th(-3)', up_th.shift(3))
-# training_dataset.insert(len(training_dataset.columns), 'lw_th(-3)', lw_th.shift(3))
 
 speed_z_score=(z_score.pct_change(1).dropna()).pct_change(1).dropna()
 training_dataset.insert(len(training_dataset.columns), 'speed_z_score(-1)', speed_z_score.shift(1))
@@ -377,6 +370,25 @@ training_dataset.insert(len(training_dataset.columns), 'speed_z_score(-2)', spee
 rate_z_score=z_score.pct_change(1).dropna()
 training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-1)', rate_z_score.shift(1))
 training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-2)', rate_z_score.shift(2))
+
+
+
+
+
+spread_BTC_low_high=nor_pair_feature.BTC_High_R-nor_pair_feature.BTC_Low_R
+rate_spread_BTC_low_high=(spread_BTC_low_high.pct_change(1).dropna()).pct_change(1).dropna()
+
+spread_ETH_low_high=nor_pair_feature.ETH_High_R-nor_pair_feature.ETH_Low_R
+rate_spread_ETH_low_high=(spread_ETH_low_high.pct_change(1).dropna()).pct_change(1).dropna()
+
+training_dataset.insert(len(training_dataset.columns), 'rate_spread_BTC_low_high(-1)', rate_spread_BTC_low_high.shift(1))
+training_dataset.insert(len(training_dataset.columns), 'rate_spread_BTC_low_high(-2)', rate_spread_BTC_low_high.shift(2))
+training_dataset.insert(len(training_dataset.columns), 'rate_spread_BTC_low_high(-3)', rate_spread_BTC_low_high.shift(3))
+
+training_dataset.insert(len(training_dataset.columns), 'rate_spread_ETH_low_high(-1)', rate_spread_ETH_low_high.shift(1))
+training_dataset.insert(len(training_dataset.columns), 'rate_spread_ETH_low_high(-2)', rate_spread_ETH_low_high.shift(2))
+training_dataset.insert(len(training_dataset.columns), 'rate_spread_ETH_low_high(-3)', rate_spread_ETH_low_high.shift(3))
+
 
 
 training_dataset=training_dataset.dropna()

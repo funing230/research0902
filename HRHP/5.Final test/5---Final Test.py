@@ -160,7 +160,7 @@ final_test_dataset=tests_for_lable.loc[testing_start_index:testing_end_index, ['
 
 
 # ----------------------------------------import the Adabost prediction labels, very important----------------------------------------
-final_label_path = "0618_y_prediction_lPLR76.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
+final_label_path = "0902_y_prediction_HPHR.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
 final_label = pd.read_csv(final_label_path, parse_dates=[0], index_col=0)
 final_test_dataset.insert(len(final_test_dataset.columns), 'predict_final_label', final_label['y_pred'])
 predict_port_out_for_lable = 0.0

@@ -525,9 +525,9 @@ class SimpleClassifier(nn.Module):
 def gbc_ada_opt_test(X_train, y_train, X_test):
 
     # Create a gradient lift tree as the base classifier for AdaBoostClassifier
-    base_classifier = GradientBoostingClassifier(n_estimators=230, max_depth=9, random_state=1016,verbose=3)
+    base_classifier = GradientBoostingClassifier(n_estimators=210, max_depth=9, random_state=1016,verbose=3)
     # Create an AdaBoostClassifier and use the gradient lift tree as the base classifier
-    adaboost = AdaBoostClassifier(estimator=base_classifier,learning_rate=0.0001, n_estimators=230, random_state=1016)
+    adaboost = AdaBoostClassifier(estimator=base_classifier,learning_rate=0.0001, n_estimators=210, random_state=1016)
     # Fit the AdaBoostClassifier model on the training set
     adaboost.fit(X_train, y_train)
     # Make predictions on the test set
