@@ -27,7 +27,7 @@ from result_util import get_pair_strategy_return
 
 
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-09-1'
+testing_end_index = '2023-09-10'
 
 BTC = yf.download('BTC-USD', start=testing_start_index, end=testing_end_index) # start=datetime(2017, 11, 9), end=datetime(2018, 12, 31)
 ETH = yf.download('ETH-USD',start=testing_start_index, end=testing_end_index)  #start=datetime(2018, 1, 1), end=datetime(2019, 9, 1)

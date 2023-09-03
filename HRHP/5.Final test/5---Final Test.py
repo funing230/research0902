@@ -26,7 +26,7 @@ from result_util import get_pairstrategy_return_for_test
 
 # Considering the consistency of the data (moving average window), the entire data set is used
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-09-01'
+testing_end_index = '2023-09-10'
 
 BTC = yf.download('BTC-USD', start=testing_start_index, end=testing_end_index) # start=datetime(2017, 11, 9), end=datetime(2018, 12, 31)
 ETH = yf.download('ETH-USD',start=testing_start_index, end=testing_end_index)  #start=datetime(2018, 1, 1), end=datetime(2019, 9, 1)
@@ -160,7 +160,7 @@ final_test_dataset=tests_for_lable.loc[testing_start_index:testing_end_index, ['
 
 
 # ----------------------------------------import the Adabost prediction labels, very important----------------------------------------
-final_label_path = "0618_y_prediction_lPLR76.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
+final_label_path = "0902_y_prediction_HPHR.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
 final_label = pd.read_csv(final_label_path, parse_dates=[0], index_col=0)
 final_test_dataset.insert(len(final_test_dataset.columns), 'predict_final_label', final_label['y_pred'])
 predict_port_out_for_lable = 0.0

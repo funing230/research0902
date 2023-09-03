@@ -467,8 +467,8 @@ def get_data_raw(testing_start_index):
                                  ]) #, 'port_outa_z_score_singel_for_lable'])   ,'Log_R(-1)','port_out(-1)','Log_R(-2)','port_out(-2)'
     y = dataset_df['z_score_singel_for_lable']
 
-    X=X.loc[:'2022-04-01', ]
-    y=y.loc[:'2022-04-01', ]
+    X=X.loc[:testing_start_index, ]
+    y=y.loc[:testing_start_index, ]
 
     class_to_index = {0: 0, 1: 1, -1: 2}
 
