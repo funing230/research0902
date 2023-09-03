@@ -249,7 +249,6 @@ rate_z_score=z_score.pct_change(1).dropna()
 testing_dataset.insert(len(testing_dataset.columns), 'rate_z_score(-1)', rate_z_score.shift(1))
 testing_dataset.insert(len(testing_dataset.columns), 'rate_z_score(-2)', rate_z_score.shift(2))
 
-
 # spread_BTC_low_high=nor_pair_feature.BTC_High_R-nor_pair_feature.BTC_Low_R
 # rate_spread_BTC_low_high=(spread_BTC_low_high.pct_change(1).dropna()).pct_change(1).dropna()
 #

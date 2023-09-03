@@ -373,7 +373,6 @@ training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-1)', rate_
 training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-2)', rate_z_score.shift(2))
 
 
-
 # spread_BTC_low_high=nor_pair_feature.BTC_High_R-nor_pair_feature.BTC_Low_R
 # rate_spread_BTC_low_high=(spread_BTC_low_high.pct_change(1).dropna()).pct_change(1).dropna()
 #
@@ -387,7 +386,7 @@ training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-2)', rate_
 # training_dataset.insert(len(training_dataset.columns), 'rate_spread_ETH_low_high(-1)', rate_spread_ETH_low_high.shift(1))
 # training_dataset.insert(len(training_dataset.columns), 'rate_spread_ETH_low_high(-2)', rate_spread_ETH_low_high.shift(2))
 # training_dataset.insert(len(training_dataset.columns), 'rate_spread_ETH_low_high(-3)', rate_spread_ETH_low_high.shift(3))
-
+#
 
 training_dataset=training_dataset.dropna()
 training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/0902_training_dataset.csv", index=True)
