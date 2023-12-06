@@ -347,6 +347,10 @@ lw_th = lw_th.dropna()
 # speed_lw_th=(lw_th.pct_change(1).dropna()).pct_change(1).dropna()
 rate_up_th=up_th.pct_change(1).dropna()
 rate_lw_th=lw_th.pct_change(1).dropna()
+
+training_dataset.insert(len(training_dataset.columns), 'up_th', rate_up_th)
+training_dataset.insert(len(training_dataset.columns), 'lw_th', rate_lw_th)
+
 training_dataset.insert(len(training_dataset.columns), 'up_th(-1)', rate_up_th.shift(1))
 training_dataset.insert(len(training_dataset.columns), 'lw_th(-1)', rate_lw_th.shift(1))
 
@@ -357,14 +361,12 @@ training_dataset.insert(len(training_dataset.columns), 'up_th(-3)', rate_up_th.s
 training_dataset.insert(len(training_dataset.columns), 'lw_th(-3)', rate_up_th.shift(3))
 
 # training_dataset.insert(len(training_dataset.columns), 'up_th(-4)', rate_up_th.shift(4))
-# training_dataset.insert(len(training_dataset.columns), 'lw_th(-4)', rate_up_th.shift(4))
+# training_dataset.insert(len(training_dataset.columns), 'lw_th(-4)', rate_lw_th.shift(4))
 
-# rate_z_score=z_score.pct_change(1).dropna()
-#
-# training_dataset.insert(len(training_dataset.columns), 'up_th(-3)', up_th.shift(3))
-# training_dataset.insert(len(training_dataset.columns), 'lw_th(-3)', lw_th.shift(3))
 
+rate_z_score=z_score.pct_change(1).dropna()
 speed_z_score=(z_score.pct_change(1).dropna()).pct_change(1).dropna()
+
 training_dataset.insert(len(training_dataset.columns), 'speed_z_score(-1)', speed_z_score.shift(1))
 training_dataset.insert(len(training_dataset.columns), 'speed_z_score(-2)', speed_z_score.shift(2))
 
@@ -387,6 +389,22 @@ training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-2)', rate_
 # training_dataset.insert(len(training_dataset.columns), 'rate_spread_ETH_low_high(-2)', rate_spread_ETH_low_high.shift(2))
 # training_dataset.insert(len(training_dataset.columns), 'rate_spread_ETH_low_high(-3)', rate_spread_ETH_low_high.shift(3))
 #
+
+
+up_th_origin = (z_score.rolling(window=2).mean()) + (z_score.rolling(window=2).std() * 2)  # upper threshold
+lw_th_origin = (z_score.rolling(window=2).mean()) - (z_score.rolling(window=2).std() * 2)  # lower threshold
+
+up_th_origin = up_th_origin.dropna()
+lw_th_origin = lw_th_origin.dropna()
+# up_lw_origin = pd.concat([up_th, lw_th,z_score, z_score.rolling(window=2).mean(),
+#                    z_score.rolling(window=2).std() * 2], ignore_index=True, axis=1)
+# up_lw_origin.columns = ['up_th_origin', 'lw_th_origin',  'z_score', 'mean(window=2)', 'deviation(window=2)']
+
+training_dataset.insert(len(training_dataset.columns), 'up_th_origin', up_th_origin)
+training_dataset.insert(len(training_dataset.columns), 'lw_th_origin', lw_th_origin)
+training_dataset.insert(len(training_dataset.columns), 'mean(window=2)', z_score.rolling(window=2).mean())
+training_dataset.insert(len(training_dataset.columns), 'deviation(window=2', z_score.rolling(window=2).std())
+
 
 training_dataset=training_dataset.dropna()
 training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/0902_training_dataset.csv", index=True)

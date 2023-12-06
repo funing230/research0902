@@ -362,6 +362,13 @@ training_dataset.insert(len(training_dataset.columns), 'lw_th(-2)', rate_lw_th.s
 training_dataset.insert(len(training_dataset.columns), 'up_th(-3)', rate_up_th.shift(3))
 training_dataset.insert(len(training_dataset.columns), 'lw_th(-3)', rate_up_th.shift(3))
 
+# training_dataset.insert(len(training_dataset.columns), 'up_th_opposite(-1)', -1*rate_up_th.shift(1))
+# training_dataset.insert(len(training_dataset.columns), 'lw_th_opposite(-1)', -1*rate_lw_th.shift(1))
+# training_dataset.insert(len(training_dataset.columns), 'up_th_opposite(-2)', -1*rate_up_th.shift(2))
+# training_dataset.insert(len(training_dataset.columns), 'lw_th_opposite(-2)', -1*rate_lw_th.shift(2))
+# training_dataset.insert(len(training_dataset.columns), 'up_th_opposite(-3)', -1*rate_up_th.shift(3))
+# training_dataset.insert(len(training_dataset.columns), 'lw_th_opposite(-3)', -1*rate_lw_th.shift(3))
+
 # training_dataset.insert(len(training_dataset.columns), 'up_th(-4)', rate_up_th.shift(4))
 # training_dataset.insert(len(training_dataset.columns), 'lw_th(-4)', rate_up_th.shift(4))
 

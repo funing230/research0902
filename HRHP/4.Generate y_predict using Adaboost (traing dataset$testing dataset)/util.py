@@ -455,16 +455,13 @@ def mlp_opt(X_train, y_train, X_test, y_test):
     return clf, y_pred
 
 
-def get_data_raw(testing_start_index):
+def get_data_raw(testing_start_index,drop_columns):
 
     total_dataset = "0902_training_dataset.csv"
     dataset_df = pd.read_csv(total_dataset, parse_dates=[0], index_col=0)
     dataset_df = dataset_df.dropna()
 
-    X = dataset_df.drop(columns=['BTC_RET', 'ETH_RET','rbtc_ret','reth_ret',
-                                 'z_score', 'port_outa_z_score_singel_for_lable',
-                                 'z_score_singel_for_lable'
-                                 ]) #, 'port_outa_z_score_singel_for_lable'])   ,'Log_R(-1)','port_out(-1)','Log_R(-2)','port_out(-2)'
+    X = dataset_df.drop(columns=drop_columns) #, 'port_outa_z_score_singel_for_lable'])   ,'Log_R(-1)','port_out(-1)','Log_R(-2)','port_out(-2)'
     y = dataset_df['z_score_singel_for_lable']
 
     X=X.loc[:'2022-04-01', ]
@@ -525,9 +522,9 @@ class SimpleClassifier(nn.Module):
 def gbc_ada_opt_test(X_train, y_train, X_test):
 
     # Create a gradient lift tree as the base classifier for AdaBoostClassifier
-    base_classifier = GradientBoostingClassifier(n_estimators=230, max_depth=9, random_state=1016,verbose=3)
+    base_classifier = GradientBoostingClassifier(n_estimators=190, max_depth=9, random_state=1016,verbose=3)
     # Create an AdaBoostClassifier and use the gradient lift tree as the base classifier
-    adaboost = AdaBoostClassifier(estimator=base_classifier,learning_rate=0.0001, n_estimators=230, random_state=1016)
+    adaboost = AdaBoostClassifier(estimator=base_classifier,learning_rate=0.0001, n_estimators=190, random_state=1016)
     # Fit the AdaBoostClassifier model on the training set
     adaboost.fit(X_train, y_train)
     # Make predictions on the test set

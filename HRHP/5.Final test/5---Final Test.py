@@ -26,7 +26,7 @@ from result_util import get_pairstrategy_return_for_test
 
 # Considering the consistency of the data (moving average window), the entire data set is used
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-09-10'
+testing_end_index = '2023-12-01'
 
 BTC = yf.download('BTC-USD', start=testing_start_index, end=testing_end_index) # start=datetime(2017, 11, 9), end=datetime(2018, 12, 31)
 ETH = yf.download('ETH-USD',start=testing_start_index, end=testing_end_index)  #start=datetime(2018, 1, 1), end=datetime(2019, 9, 1)
@@ -118,7 +118,7 @@ tests_for_lable.insert(len(tests_for_lable.columns), 'z_score', z_score)
 final_test_dataset=tests_for_lable.loc[testing_start_index:testing_end_index, ['rbtc_ret','reth_ret','z_score']]
 
 
-# ------------------------------triple_barrier Generated tags, for testing purposes, not important--------------------
+# ------------------------------triple_barrier Generated labels, for testing purposes, not important--------------------
 # z_score_ret = triple_barrier(z_score, a, b, k)
 # z_score_singel_for_lable = z_score_ret['triple_barrier_signal']
 # final_test_dataset.insert(len(final_test_dataset.columns), 'z_score_singel_for_lable', z_score_singel_for_lable)
@@ -157,10 +157,8 @@ final_test_dataset=tests_for_lable.loc[testing_start_index:testing_end_index, ['
 # print("-------Lableing method---------Lableing-----------Lableing------------------------")
 # ------------------------------triple_barrier Generated tags, for testing purposes, not important------------------------------
 
-
-
 # ----------------------------------------import the Adabost prediction labels, very important----------------------------------------
-final_label_path = "0902_y_prediction_HPHR.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
+final_label_path = "0905_y_prediction_HPHR.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
 final_label = pd.read_csv(final_label_path, parse_dates=[0], index_col=0)
 final_test_dataset.insert(len(final_test_dataset.columns), 'predict_final_label', final_label['y_pred'])
 predict_port_out_for_lable = 0.0

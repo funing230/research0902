@@ -27,7 +27,7 @@ from result_util import get_pair_strategy_return
 
 
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-09-10'
+testing_end_index = '2023-12-01'
 
 BTC = yf.download('BTC-USD', start=testing_start_index, end=testing_end_index) # start=datetime(2017, 11, 9), end=datetime(2018, 12, 31)
 ETH = yf.download('ETH-USD',start=testing_start_index, end=testing_end_index)  #start=datetime(2018, 1, 1), end=datetime(2019, 9, 1)
@@ -229,17 +229,21 @@ up_th = up_th.dropna()
 lw_th = lw_th.dropna()
 rate_up_th=up_th.pct_change(1).dropna()
 rate_lw_th=lw_th.pct_change(1).dropna()
+
+testing_dataset.insert(len(testing_dataset.columns), 'up_th', rate_up_th)
+testing_dataset.insert(len(testing_dataset.columns), 'lw_th', rate_lw_th)
+
 testing_dataset.insert(len(testing_dataset.columns), 'up_th(-1)', rate_up_th.shift(1))
 testing_dataset.insert(len(testing_dataset.columns), 'lw_th(-1)', rate_lw_th.shift(1))
 
 testing_dataset.insert(len(testing_dataset.columns), 'up_th(-2)', rate_up_th.shift(2))
 testing_dataset.insert(len(testing_dataset.columns), 'lw_th(-2)', rate_lw_th.shift(2))
-#
+
 testing_dataset.insert(len(testing_dataset.columns), 'up_th(-3)', rate_up_th.shift(3))
 testing_dataset.insert(len(testing_dataset.columns), 'lw_th(-3)', rate_up_th.shift(3))
 
 # testing_dataset.insert(len(testing_dataset.columns), 'up_th(-4)', rate_up_th.shift(4))
-# testing_dataset.insert(len(testing_dataset.columns), 'lw_th(-4)', rate_up_th.shift(4))
+# testing_dataset.insert(len(testing_dataset.columns), 'lw_th(-4)', rate_lw_th.shift(4))
 
 speed_z_score=(z_score.pct_change(1).dropna()).pct_change(1).dropna()
 testing_dataset.insert(len(testing_dataset.columns), 'speed_z_score(-1)', speed_z_score.shift(1))
@@ -263,6 +267,22 @@ testing_dataset.insert(len(testing_dataset.columns), 'rate_z_score(-2)', rate_z_
 # testing_dataset.insert(len(testing_dataset.columns), 'rate_spread_ETH_low_high(-2)', rate_spread_ETH_low_high.shift(2))
 # testing_dataset.insert(len(testing_dataset.columns), 'rate_spread_ETH_low_high(-3)', rate_spread_ETH_low_high.shift(3))
 #
+
+
+up_th_origin = (z_score.rolling(window=2).mean()) + (z_score.rolling(window=2).std() * 2)  # upper threshold
+lw_th_origin = (z_score.rolling(window=2).mean()) - (z_score.rolling(window=2).std() * 2)  # lower threshold
+
+up_th_origin = up_th_origin.dropna()
+lw_th_origin = lw_th_origin.dropna()
+# up_lw_origin = pd.concat([up_th, lw_th,z_score, z_score.rolling(window=2).mean(),
+#                    z_score.rolling(window=2).std() * 2], ignore_index=True, axis=1)
+# up_lw_origin.columns = ['up_th_origin', 'lw_th_origin',  'z_score', 'mean(window=2)', 'deviation(window=2)']
+
+testing_dataset.insert(len(testing_dataset.columns), 'up_th_origin', up_th_origin)
+testing_dataset.insert(len(testing_dataset.columns), 'lw_th_origin', lw_th_origin)
+testing_dataset.insert(len(testing_dataset.columns), 'mean(window=2)', z_score.rolling(window=2).mean())
+testing_dataset.insert(len(testing_dataset.columns), 'deviation(window=2', z_score.rolling(window=2).std())
+
 
 testing_dataset=testing_dataset.dropna()
 testing_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/0902_testing_dataset.csv", index=True)

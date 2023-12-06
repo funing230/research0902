@@ -1,13 +1,13 @@
 # univariate mlp example
 
-from mealpy.evolutionary_based import GA
-import tensorflow as tf
+# from mealpy.evolutionary_based import GA
+# import tensorflow as tf
 import statsmodels.regression.linear_model as rg
 import numpy as np
 import random
 random.seed(7)
 np.random.seed(42)
-tf.random.set_seed(116)
+# tf.random.set_seed(116)
 from GA_util import print_table,pdmdd,normalize_series,triple_barrier,calculate_mdd,get_mdd,triple_barrier_change_rate
 from baseline_util import get_z_socre_hege,get_z_socre_no_hege,get_z_socre_two_windows
 import yfinance as yf

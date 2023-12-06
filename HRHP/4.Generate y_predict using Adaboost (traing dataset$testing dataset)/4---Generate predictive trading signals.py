@@ -7,11 +7,15 @@ from util import get_data_raw,train_test_split,\
 
 #testing data
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-09-10'
+testing_end_index = '2023-12-01'
 
+
+drop_columns=['BTC_RET', 'ETH_RET','rbtc_ret','reth_ret',
+              'port_outa_z_score_singel_for_lable',
+             'z_score_singel_for_lable']
 
 #remove 'BTC_RET', 'ETH_RET','rbtc_ret','reth_ret','z_score', 'port_outa_z_score_singel_for_lable','z_score_singel_for_lable'
-X_train, y_train = get_data_raw(testing_start_index)
+X_train, y_train = get_data_raw(testing_start_index,drop_columns)
 
 
 
@@ -24,9 +28,7 @@ test_dataset=test_dataset.loc[testing_start_index:testing_end_index, ]
 
 #remove 'BTC_RET', 'ETH_RET','rbtc_ret','reth_ret','z_score', 'port_outa_z_score_singel_for_lable','z_score_singel_for_lable'
 X_test = test_dataset.drop(
-    columns=['BTC_RET', 'ETH_RET','rbtc_ret','reth_ret',
-             'z_score', 'port_outa_z_score_singel_for_lable',
-             'z_score_singel_for_lable'])  # , 'port_outa_z_score_singel_for_lable'])
+    columns=drop_columns)  # , 'port_outa_z_score_singel_for_lable'])
 
 # clf, y_pred=lgbm_opt(X_train, y_train, X_test, y_test)     #0.4850631578947368
 # clf, y_pred=svm_opt(X_train, y_train, X_test, y_test)      #0.5013440860215054
@@ -64,7 +66,7 @@ y_pred=pd.DataFrame(y_pred)
 y_pred.columns = ['y_pred']
 y_pred.index=X_test.index
 
-pd.DataFrame(y_pred).to_csv("../5.Final test/0902_y_prediction_HPHR.csv", index=True)
+pd.DataFrame(y_pred).to_csv("../5.Final test/0905_y_prediction_HPHR.csv", index=True)
 
 
 # #------------------------------------------------------

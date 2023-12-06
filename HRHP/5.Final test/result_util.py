@@ -159,30 +159,30 @@ def get_pairstrategy_return_for_test(testing_start_index,testing_end_index):
     ftestsig2 = 0.0
     ftestsig2a = []
     for i in range(0, len(tests.index)):
-        # if tests.at[tests.index[i], 'z_score(-2)'] > (-1 * up_th[tests.index[i]]) and tests.at[
-        #     tests.index[i], 'z_score(-1)'] < (-1 * up_th[tests.index[i]]):
-        #     ftestsig2 = 1
-        # elif tests.at[tests.index[i], 'z_score(-2)'] < (-1 * lw_th[tests.index[i]]) and tests.at[
-        #     tests.index[i], 'z_score(-1)'] > (-1 * lw_th[tests.index[i]]):
-        #     ftestsig2 = -2
-        # elif tests.at[tests.index[i], 'z_score(-2)'] < (-1 * up_th[tests.index[i]]) and tests.at[
-        #     tests.index[i], 'z_score(-1)'] > (-1 * up_th[tests.index[i]]):
-        #     ftestsig2 = -1
-        # elif tests.at[tests.index[i], 'z_score(-2)'] > (-1 * lw_th[tests.index[i]]) and tests.at[
-        #     tests.index[i], 'z_score(-1)'] < (-1 * lw_th[tests.index[i]]):
-        #     ftestsig2 = 2
-        # elif tests.at[tests.index[i], 'z_score(-2)'] < up_th[tests.index[i]] and tests.at[
-        #     tests.index[i], 'z_score(-1)'] > up_th[tests.index[i]]:
-        #     ftestsig2 = -1
-        # elif tests.at[tests.index[i], 'z_score(-2)'] > up_th[tests.index[i]] and tests.at[
-        #     tests.index[i], 'z_score(-1)'] < up_th[tests.index[i]]:
-        #     ftestsig2 = 1
-        # elif tests.at[tests.index[i], 'z_score(-2)'] > lw_th[tests.index[i]] and tests.at[
-        #     tests.index[i], 'z_score(-1)'] < lw_th[tests.index[i]]:
-        #     ftestsig2 = 2
-        # elif tests.at[tests.index[i], 'z_score(-2)'] < lw_th[tests.index[i]] and tests.at[
-        #     tests.index[i], 'z_score(-1)'] > lw_th[tests.index[i]]:
-        #     ftestsig2 = -2
+        if tests.at[tests.index[i], 'z_score(-2)'] > (-1 * up_th[tests.index[i]]) and tests.at[
+            tests.index[i], 'z_score(-1)'] < (-1 * up_th[tests.index[i]]):
+            ftestsig2 = 1
+        elif tests.at[tests.index[i], 'z_score(-2)'] < (-1 * lw_th[tests.index[i]]) and tests.at[
+            tests.index[i], 'z_score(-1)'] > (-1 * lw_th[tests.index[i]]):
+            ftestsig2 = -2
+        elif tests.at[tests.index[i], 'z_score(-2)'] < (-1 * up_th[tests.index[i]]) and tests.at[
+            tests.index[i], 'z_score(-1)'] > (-1 * up_th[tests.index[i]]):
+            ftestsig2 = -1
+        elif tests.at[tests.index[i], 'z_score(-2)'] > (-1 * lw_th[tests.index[i]]) and tests.at[
+            tests.index[i], 'z_score(-1)'] < (-1 * lw_th[tests.index[i]]):
+            ftestsig2 = 2
+        elif tests.at[tests.index[i], 'z_score(-2)'] < up_th[tests.index[i]] and tests.at[
+            tests.index[i], 'z_score(-1)'] > up_th[tests.index[i]]:
+            ftestsig2 = -1
+        elif tests.at[tests.index[i], 'z_score(-2)'] > up_th[tests.index[i]] and tests.at[
+            tests.index[i], 'z_score(-1)'] < up_th[tests.index[i]]:
+            ftestsig2 = 1
+        elif tests.at[tests.index[i], 'z_score(-2)'] > lw_th[tests.index[i]] and tests.at[
+            tests.index[i], 'z_score(-1)'] < lw_th[tests.index[i]]:
+            ftestsig2 = 2
+        elif tests.at[tests.index[i], 'z_score(-2)'] < lw_th[tests.index[i]] and tests.at[
+            tests.index[i], 'z_score(-1)'] > lw_th[tests.index[i]]:
+            ftestsig2 = -2
         if tests.at[tests.index[i], 'trade_dir'] == 1:
             ftestsig2 = 2
         elif tests.at[tests.index[i], 'trade_dir'] == -1:
