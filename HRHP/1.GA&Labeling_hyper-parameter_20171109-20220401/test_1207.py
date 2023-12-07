@@ -14,14 +14,20 @@ import yfinance as yf
 import numpy as np
 import pandas as pd
 from datetime import datetime
+from mealpy.utils.problem import Problem
 
-
-class HybridMlp:
-    def __init__(self, dataset, pair_train,GA_epoch,pop_size):  #dataset,
+class HybridMlp(Problem):
+    def __init__(self,dataset,GA_epoch,pop_size):  #dataset,, pair_train
         self.dataset = dataset
-        self.pair_train = pair_train
+        # self.pair_train = pair_train
         self.GA_epoch = GA_epoch
         self.pop_size = pop_size
+
+    def __init__(self, lb, ub, minmax, data=None, name="TimeSeries Multi-Layer Perceptron", **kwargs):
+        super().__init__(lb, ub, minmax, data=data,
+                         **kwargs)  ## data is needed because when initialize the Problem class, we need to check the output of fitness
+        self.data = data
+        self.name = name
 
 
     def create_problem(self):
@@ -143,8 +149,8 @@ class HybridMlp:
         return fitness
     def training(self):
         self.create_problem()
-        self.optimizer = GA.BaseGA(self.problem, GAepoch=self.GA_epoch,pop_size=self.pop_size, pc=0.7, pm=0.4)
-        self.solution, self.best_fit = self.optimizer.solve()
+        self.model = GA.BaseGA(GAepoch=self.GA_epoch,pop_size=self.pop_size, pc=0.7, pm=0.4)
+        self.solution, self.best_fit = self.model.solve(self.problem)
 
     def best_fitness(self):
         Return, MDD = self.best_fit
@@ -162,33 +168,6 @@ class HybridMlp:
         print("window1", structure["window1"])
         print("window2 : ", structure["window2"])
 
-
-traing_start_index = '2017-11-09'
-traing_end_index = '2022-09-01'
-
-# traing_start_index,traing_end_index
-
-BTC = yf.download('BTC-USD', start=traing_start_index, end=traing_end_index) # start=datetime(2017, 11, 9), end=datetime(2018, 12, 31)
-ETH = yf.download('ETH-USD',start=traing_start_index, end=traing_end_index)  #start=datetime(2018, 1, 1), end=datetime(2019, 9, 1)
-
-pair= pd.concat([BTC['Adj Close'],ETH['Adj Close']], ignore_index=True,axis=1)
-pair=pair.dropna()
-
-pair_ret=normalize_series(pair)
-
-#remove first row with NAs
-pair_ret=pair_ret.tail(len(pair_ret)-1)
-pair_ret.columns = ['BTC_RET','ETH_RET']
-
-tests= pd.concat([pair_ret['BTC_RET'] ,pair_ret['ETH_RET']], ignore_index=False,axis=1)
-
-hege= rg.OLS(pair_ret['BTC_RET'] ,pair_ret['ETH_RET']).fit().params[0]
-# hege=1
-pair_train= pair_ret['BTC_RET'] - hege * pair_ret['ETH_RET']
-# BTC_ETH Rolling Spread Z-Score Calculation
-
-rbtc_ret= pair_ret['BTC_RET']
-reth_ret= pair_ret['ETH_RET']
 
 
 
@@ -224,7 +203,7 @@ class Logger(object):
     def flush(self):
 	    pass
 
-sys.stdout = Logger("0829.log", sys.stdout)
+sys.stdout = Logger("1207.log", sys.stdout)
 sys.stderr = Logger("test_error.log", sys.stderr)		# redirect std err, if necessary
 
 
@@ -236,7 +215,7 @@ GA_pop_size=20
 
 
 ## Create hybrid model
-model = HybridMlp(tests,pair_train,GA_epoch,GA_pop_size) #dataset,
+model = HybridMlp(tests,GA_epoch,GA_pop_size) #dataset,
 
 model.training()
 

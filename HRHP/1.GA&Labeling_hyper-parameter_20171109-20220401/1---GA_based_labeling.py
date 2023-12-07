@@ -1,13 +1,13 @@
 # univariate mlp example
 
 from mealpy.evolutionary_based import GA
-import tensorflow as tf
+# import tensorflow as tf
 import statsmodels.regression.linear_model as rg
 import numpy as np
 import random
 random.seed(7)
 np.random.seed(42)
-tf.random.set_seed(116)
+# tf.random.set_seed(116)
 from GA_util import print_table,pdmdd,normalize_series,triple_barrier,calculate_mdd,get_mdd,triple_barrier_change_rate
 from baseline_util import get_z_socre_hege,get_z_socre_no_hege,get_z_socre_two_windows
 import yfinance as yf
@@ -184,7 +184,7 @@ tests= pd.concat([pair_ret['BTC_RET'] ,pair_ret['ETH_RET']], ignore_index=False,
 
 hege= rg.OLS(pair_ret['BTC_RET'] ,pair_ret['ETH_RET']).fit().params[0]
 # hege=1
-# pair_train= pair_ret['BTC_RET'] - hege * pair_ret['ETH_RET']
+pair_train= pair_ret['BTC_RET'] - hege * pair_ret['ETH_RET']
 # BTC_ETH Rolling Spread Z-Score Calculation
 
 rbtc_ret= pair_ret['BTC_RET']
@@ -224,7 +224,7 @@ class Logger(object):
     def flush(self):
 	    pass
 
-sys.stdout = Logger("0829.log", sys.stdout)
+sys.stdout = Logger("1207.log", sys.stdout)
 sys.stderr = Logger("test_error.log", sys.stderr)		# redirect std err, if necessary
 
 

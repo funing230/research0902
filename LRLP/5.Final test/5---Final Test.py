@@ -19,7 +19,7 @@ import pandas as pd
 import yfinance as yf
 from datetime import datetime
 from sklearn.preprocessing import MinMaxScaler
-from baseline_util import get_z_socre_hege,get_z_socre_no_hege,get_z_socre_two_windows
+from baseline_util import get_z_socre_hege,get_z_socre_no_hege,get_z_socre_two_windows,calculate_sharpe_ratio
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from result_util import get_pairstrategy_return_for_test
@@ -201,8 +201,9 @@ predict_MDD = get_mdd(predict_port_outa_for_lable)
 print("Return : " + str(np.round(predict_port_outa_for_lable.iloc[-1], 4)))
 print("Standard Deviation : " + str(
     np.round(np.std(predict_port_outa_for_lable), 4)))  # mean_absolute_percentage_error
-print("Sharpe Ratio (Rf=0%) : " + str(
-    np.round(predict_port_outa_for_lable.iloc[-1] / (np.std(predict_port_outa_for_lable)), 4)))
+# print("Sharpe Ratio (Rf=0%) : " + str(
+#     np.round(predict_port_outa_for_lable.iloc[-1] / (np.std(predict_port_outa_for_lable)), 4)))
+print("Sharpe Ratio (Rf=0%):"+str(calculate_sharpe_ratio(final_test_dataset['predict_port_outa_for_lable'],0)))
 print("Max Drawdown: " + str(np.round(predict_MDD, 4)))  # calculate_mdd(pt_out)
 print("--final result-----adaboost prediction very important-----------------------")
 # ----------------------------------------import the Adabost prediction tag, very important----------------------------------------
@@ -266,12 +267,25 @@ results2 = [{'0': 'Test:',
              },
 
             {'0': 'Sharpe Ratio (Rf=0%)',
-             '1': np.round(port_outa_pair_trading.iloc[-1] / (np.std(port_outa_pair_trading)), 6),
-             '2': np.round(predict_port_outa_for_lable.iloc[-1] / (np.std(predict_port_outa_for_lable)), 6),
-             '3': np.round(bh_btc_test.iloc[-1] / (np.std(bh_btc_test)), 6),
-             '4': np.round(bh_eth_test.iloc[-1] / (np.std(bh_eth_test)), 6),
+             '1': np.round(calculate_sharpe_ratio(pt_out_pair_trading, 0), 6),
+
+             '2': np.round(calculate_sharpe_ratio(final_test_dataset['predict_port_outa_for_lable'], 0), 6),
+             # np.round(predict_port_outa_for_lable.iloc[-1] / (np.std(predict_port_outa_for_lable)), 6),
+
+             '3': np.round(calculate_sharpe_ratio(final_test_dataset['rbtc_ret'], 0), 6),
+
+             '4': np.round(calculate_sharpe_ratio(final_test_dataset['reth_ret'], 0), 6),
+
              # '6': np.round(pt_outc.iloc[-1] / (np.std(pt_outc)), 4)
              },
+
+            # {'0': 'Sharpe Ratio (Rf=0%)',
+            #  '1': np.round(port_outa_pair_trading.iloc[-1] / (np.std(port_outa_pair_trading)), 6),
+            #  '2': np.round(predict_port_outa_for_lable.iloc[-1] / (np.std(predict_port_outa_for_lable)), 6),
+            #  '3': np.round(bh_btc_test.iloc[-1] / (np.std(bh_btc_test)), 6),
+            #  '4': np.round(bh_eth_test.iloc[-1] / (np.std(bh_eth_test)), 6),
+            #  # '6': np.round(pt_outc.iloc[-1] / (np.std(pt_outc)), 4)
+            #  },
 
             {'0': 'Max Drawdown',
              '1': np.round(get_mdd(port_outa_pair_trading), 6),

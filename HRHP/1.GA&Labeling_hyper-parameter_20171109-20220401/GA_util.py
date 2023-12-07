@@ -4,7 +4,7 @@ from sklearn.preprocessing import MinMaxScaler
 # from keras.layers import Dense
 # from keras import optimizers
 import statsmodels.datasets.co2 as co2
-from permetrics.regression import RegressionMetric
+# from permetrics.regression import RegressionMetric
 import numpy as np
 from numpy import array
 import pandas as pd
