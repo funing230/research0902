@@ -158,7 +158,7 @@ final_test_dataset=tests_for_lable.loc[testing_start_index:testing_end_index, ['
 # ------------------------------triple_barrier Generated tags, for testing purposes, not important------------------------------
 
 # ----------------------------------------import the Adabost prediction labels, very important----------------------------------------
-final_label_path = "0905_y_prediction_HPHR.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
+final_label_path = "1209_y_prediction_HPHR.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
 final_label = pd.read_csv(final_label_path, parse_dates=[0], index_col=0)
 final_test_dataset.insert(len(final_test_dataset.columns), 'predict_final_label', final_label['y_pred'])
 predict_port_out_for_lable = 0.0
@@ -218,11 +218,12 @@ port_outa_pair_trading = (1 + pt_out_pair_trading).cumprod() # pair trading retu
 
 
 
-plt.figure(figsize=(16,8))
+plt.figure(figsize=(18,9))
 plt.rcParams.update({'font.size':10})
-plt.xticks(rotation=45)
+
 ax = plt.axes()
 ax.xaxis.set_major_locator(plt.MaxNLocator(20))
+plt.xticks(rotation=45)
 plt.plot(predict_port_outa_for_lable, label='Machine Learning Model Prediction',color='r')
 # plt.plot(port_outa_for_lable, label='triple barrier method ',color='b')
 plt.plot(port_outa_pair_trading, label='Cumulative return on Pair Trading Strategy',color='y')
@@ -234,6 +235,7 @@ plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
 plt.suptitle('Cumulative Returns')
 ax.legend(loc='best')
 ax.grid(True)
+
 plt.show()
 
 

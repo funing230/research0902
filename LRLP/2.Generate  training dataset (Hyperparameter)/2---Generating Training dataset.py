@@ -390,6 +390,6 @@ training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-2)', rate_
 
 
 training_dataset=training_dataset.dropna()
-training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/0617_training_dataset.csv", index=True)
+training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1209_training_dataset.csv", index=True)
 
 print('08311518')

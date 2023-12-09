@@ -60,27 +60,28 @@ def get_z_socre_two_windows(btc_R_test,eth_R_test,window1,window2) :
 
 def calculate_sharpe_ratio(daily_returns, risk_free_rate=0.01):
     """
-    计算给定日收益率序列的夏普比率。
+    Calculate the Sharpe Ratio for a given series of daily returns.
 
-    :param daily_returns: NumPy数组或列表，代表日收益率。
-    :param risk_free_rate: 年化无风险利率，默认值为1%。
-    :return: 计算出的夏普比率。
+    :param daily_returns: A NumPy array or list representing daily returns.
+    :param risk_free_rate: The annualized risk-free rate, default value is 1%.
+    :return: The calculated Sharpe Ratio.
     """
-    # 将日收益率列表转换为NumPy数组（如果尚未转换）
+    # Convert the list of daily returns to a NumPy array (if not already converted)
     daily_returns = np.array(daily_returns)
 
-    # 计算日收益率的平均值和标准差
+    # Calculate the mean and standard deviation of daily returns
     average_daily_return = np.mean(daily_returns)
     std_dev_daily_return = np.std(daily_returns)
 
-    # 年化收益率和标准差
-    average_annual_return = average_daily_return * 250  # 假设一年有250个交易日
-    std_dev_annual_return = std_dev_daily_return * np.sqrt(250)
+    # Annualize the returns and standard deviation
+    average_annual_return = average_daily_return * 365  # Assuming there are 365 trading days in a year
+    std_dev_annual_return = std_dev_daily_return * np.sqrt(365)
 
-    # 计算夏普比率
+    # Calculate the Sharpe Ratio
     sharpe_ratio = (average_annual_return - risk_free_rate) / std_dev_annual_return
 
     return sharpe_ratio
+
 
 # totaldataset_file_path = 'totaldataset_df_BTC.csv'
 # BTC_df = pd.read_csv(totaldataset_file_path, parse_dates=[0], index_col=0)

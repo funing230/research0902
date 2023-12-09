@@ -236,7 +236,7 @@ GA_pop_size=20
 
 
 ## Create hybrid model
-model = HybridMlp(tests,pair_train,GA_epoch,GA_pop_size) #dataset,
+model = HybridMlp(tests,GA_epoch,GA_pop_size) #dataset,
 
 model.training()
 
