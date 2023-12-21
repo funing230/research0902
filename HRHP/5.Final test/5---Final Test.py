@@ -158,7 +158,7 @@ final_test_dataset=tests_for_lable.loc[testing_start_index:testing_end_index, ['
 # ------------------------------triple_barrier Generated tags, for testing purposes, not important------------------------------
 
 # ----------------------------------------import the Adabost prediction labels, very important----------------------------------------
-final_label_path = "1209_y_prediction_HPHR.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
+final_label_path = "1214_y_prediction_HPHR.csv"#"0829_y_prediction_LPLR.csv"#"0829_y_prediction_HPHR.csv"#"0618_y_prediction_HPHR.csv" # "0618_y_prediction_lPLR.csv" "0829_y_prediction_LPLR.csv"
 final_label = pd.read_csv(final_label_path, parse_dates=[0], index_col=0)
 final_test_dataset.insert(len(final_test_dataset.columns), 'predict_final_label', final_label['y_pred'])
 predict_port_out_for_lable = 0.0
@@ -217,15 +217,38 @@ port_outa_pair_trading = (1 + pt_out_pair_trading).cumprod() # pair trading retu
 # ------------------------pair trading strategy------------------------
 
 
+# ------------------------cumulative_return_reinforcement 1220------------------------
+print()
+print()
+print()
+print()
+print("--final result-----reinforcement very important-----------------------")
+
+final_label_path_reinforcement = "cumulative_return_reinforcement.csv"
+final_label_reinforcement= pd.read_csv(final_label_path_reinforcement, parse_dates=[0], index_col=0)
+
+print("Reinforcement Return: " + str(np.round(final_label_reinforcement.iloc[-1].item(), 4)))
+print("Reinforcement Standard Deviation : " + str(
+    np.round(np.std(final_label_reinforcement), 4)))
+
+print("Sharpe Ratio (Rf=0%):"+str(calculate_sharpe_ratio(final_label_reinforcement,0)))
+print("Max Drawdown: " + str(np.round(get_mdd(final_label_reinforcement), 4)))  # calculate_mdd(pt_out)
+print("--final result-----reinforcement-----------------------")
+print()
+print()
+print()
+print()
+# ------------------------cumulative_return_reinforcement 1220------------------------
+
 
 plt.figure(figsize=(18,9))
 plt.rcParams.update({'font.size':10})
 
 ax = plt.axes()
-ax.xaxis.set_major_locator(plt.MaxNLocator(20))
+ax.xaxis.set_major_locator(plt.MaxNLocator(40))
 plt.xticks(rotation=45)
 plt.plot(predict_port_outa_for_lable, label='Machine Learning Model Prediction',color='r')
-# plt.plot(port_outa_for_lable, label='triple barrier method ',color='b')
+plt.plot(final_label_reinforcement, label='cumulative return reinforcement',color='Blue')
 plt.plot(port_outa_pair_trading, label='Cumulative return on Pair Trading Strategy',color='y')
 plt.plot(bh_btc_test, label='Cumulative return on Buy and Hold Bitcoin',color='g')
 plt.plot(bh_eth_test, label='Cumulative return on Buy and Hold Ethereum',color='Purple')

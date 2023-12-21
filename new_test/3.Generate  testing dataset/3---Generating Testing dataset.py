@@ -27,7 +27,7 @@ from result_util import get_pair_strategy_return
 
 
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-12-01'
+testing_end_index = '2023-12-10'
 
 BTC = yf.download('BTC-USD', start=testing_start_index, end=testing_end_index) # start=datetime(2017, 11, 9), end=datetime(2018, 12, 31)
 ETH = yf.download('ETH-USD',start=testing_start_index, end=testing_end_index)  #start=datetime(2018, 1, 1), end=datetime(2019, 9, 1)
@@ -79,11 +79,11 @@ testing_dataset = testing_dataset.dropna()
 # window1 = 1
 # window2 = 79
 
-# a = 1.1949552532482448  #1.2585  -0.090287
-# b = 0.21272475392074522
-# k = 2
-# window1 = 1
-# window2 = 28
+a = 1.1949552532482448  #1.2585  -0.090287
+b = 0.21272475392074522
+k = 2
+window1 = 1
+window2 = 28
 
 # a =  1.5840008792860454  # 754.3731    -0.6334   add for new 20231209
 # b = 0.6136445151851226
@@ -91,11 +91,17 @@ testing_dataset = testing_dataset.dropna()
 # window1 = 1
 # window2 = 24
 
-a = 1.4484186327277686  # 632.3288 -0.6253
-b = 0.21747654896842694
-k = 2
-window1 = 1
-window2 = 20
+# a = 1.4484186327277686  # 632.3288 -0.6253  -----1209
+# b = 0.21747654896842694
+# k = 2
+# window1 = 1
+# window2 = 20
+
+# a =  1.589967488265053  #--------------1210
+# b = 0.6151188383799715
+# k = 2
+# window1 = 1
+# window2 = 24
 
 # a = 1.6620194524076644  #Return 58.603
 # b = 0.7798181445467653
@@ -273,7 +279,7 @@ testing_dataset.insert(len(testing_dataset.columns), 'rate_z_score(-1)', rate_z_
 testing_dataset.insert(len(testing_dataset.columns), 'rate_z_score(-2)', rate_z_score.shift(2))
 
 testing_dataset=testing_dataset.dropna()
-testing_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1209_testing_dataset.csv", index=True)
+testing_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1210_testing_dataset.csv", index=True)
 
 
 print('08311518')

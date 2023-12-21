@@ -7,7 +7,7 @@ from util import get_data_raw,train_test_split,\
 
 #testing data
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-12-01'
+testing_end_index = '2023-12-10'
 
 
 #remove 'BTC_RET', 'ETH_RET','rbtc_ret','reth_ret','z_score', 'port_outa_z_score_singel_for_lable','z_score_singel_for_lable'
@@ -16,7 +16,7 @@ X_train, y_train = get_data_raw(testing_start_index)
 
 
 
-test_dataset = "1209_testing_dataset.csv"
+test_dataset = "1210_testing_dataset.csv"
 test_dataset = pd.read_csv(test_dataset, parse_dates=[0], index_col=0)
 test_dataset = test_dataset.dropna()
 # Test period
@@ -64,7 +64,7 @@ y_pred=pd.DataFrame(y_pred)
 y_pred.columns = ['y_pred']
 y_pred.index=X_test.index
 
-pd.DataFrame(y_pred).to_csv("../5.Final test/1209_y_prediction_lPLR76.csv", index=True)
+pd.DataFrame(y_pred).to_csv("../5.Final test/1210_y_prediction_lPLR76.csv", index=True)
 
 
 # #------------------------------------------------------

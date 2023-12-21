@@ -407,6 +407,6 @@ training_dataset.insert(len(training_dataset.columns), 'deviation(window=2', z_s
 
 
 training_dataset=training_dataset.dropna()
-training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1209_training_dataset.csv", index=True)
+training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1214_training_dataset.csv", index=True)
 
 print('08311518')

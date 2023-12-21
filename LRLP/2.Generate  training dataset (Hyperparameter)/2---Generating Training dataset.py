@@ -127,9 +127,9 @@ z_score,_ = get_z_socre_two_windows(btc_R,eth_R,window1,window2)
 
 z_score = z_score.dropna()
 
-# z_score_ret=triple_barrier(z_score,a, b, k)
+z_score_ret=triple_barrier(z_score,a, b, k)
 
-z_score_ret=triple_barrier_change_rate(z_score,rbtc_ret,reth_ret ,a, b, k)
+# z_score_ret=triple_barrier_change_rate(z_score,rbtc_ret,reth_ret ,a, b, k)
 
 
 z_score_singel_for_lable = z_score_ret['triple_barrier_signal']
@@ -390,6 +390,6 @@ training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-2)', rate_
 
 
 training_dataset=training_dataset.dropna()
-training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1209_training_dataset.csv", index=True)
+training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1214_training_dataset.csv", index=True)
 
 print('08311518')

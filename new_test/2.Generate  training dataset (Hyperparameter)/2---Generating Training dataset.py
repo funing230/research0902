@@ -86,11 +86,11 @@ training_dataset = training_dataset.dropna()
 # window1 = 1
 # window2 = 79
 
-# a = 1.1949552532482448  #1.2585  -0.090287
-# b = 0.21272475392074522
-# k = 2
-# window1 = 1
-# window2 = 28
+a = 1.1949552532482448  #1.2585  -0.090287
+b = 0.21272475392074522
+k = 2
+window1 = 1
+window2 = 28
 
 
 # a =  1.5840008792860454  # 754.3731    -0.6334   add for new 20231209
@@ -99,11 +99,18 @@ training_dataset = training_dataset.dropna()
 # window1 = 1
 # window2 = 24
 
-a = 1.4484186327277686  # 632.3288 -0.6253
-b = 0.21747654896842694
-k = 2
-window1 = 1
-window2 = 20
+# a = 1.4484186327277686  # 632.3288 -0.6253 ---1209
+# b = 0.21747654896842694
+# k = 2
+# window1 = 1
+# window2 = 20
+
+# a =  1.589967488265053  #--------------1210
+# b = 0.6151188383799715
+# k = 2
+# window1 = 1
+# window2 = 24
+
 
 #
 # a = 1.6620194524076644  #Return 58.603
@@ -403,6 +410,6 @@ training_dataset.insert(len(training_dataset.columns), 'rate_z_score(-2)', rate_
 
 
 training_dataset=training_dataset.dropna()
-training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1209_training_dataset.csv", index=True)
+training_dataset.to_csv("../4.Generate y_predict using Adaboost (traing dataset$testing dataset)/1210_training_dataset.csv", index=True)
 
 print('08311518')

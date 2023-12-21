@@ -95,7 +95,7 @@ class TBl_problem(Problem):
 
             MDD = get_mdd(port_outa_z_score_singel)
             # sharp_ratio=calculate_sharpe_ratio(tests['port_outa_z_score_singel'])
-            if abs(MDD) < 0.3 and np.round(port_outa_z_score_singel.iloc[-1], 4) > 60:
+            if abs(MDD) < 0.4 and np.round(port_outa_z_score_singel.iloc[-1], 4) > 60:
             # if sharp_ratio>2.1 :
                 # print("Condition met")
                 print("------FINALLY---------------------------------------")
@@ -157,7 +157,7 @@ LB = [1.01,    0.01,   2  ,  1,   20,  0      ]
 UB = [1.8,     0.99,   60 ,  30,  90,  2.99   ]
 problem = TBl_problem(bounds=FloatVar(lb=LB, ub=UB), minmax="max", data=tests, save_population=False, log_to=None) #obj_weights=[0.40, 0.60],
 
-model = GA.BaseGA(epoch=2000, pop_size=200, pc=0.7, pm=0.4)
+model = GA.BaseGA(epoch=2000, pop_size=200)
 best_agent = model.solve(problem)
 
 print(f"Best agent: {best_agent}")
