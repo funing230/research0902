@@ -1,0 +1,46 @@
+Traceback (most recent call last):
+  File "C:/Users/ssel512/PycharmProjects/research0902/new_test/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 161, in <module>
+    best_agent = model.solve(problem)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 237, in solve
+    self.evolve(epoch)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\evolutionary_based\GA.py", line 317, in evolve
+    pop_new[-2].target = self.get_target(child1)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 406, in get_target
+    return self.problem.get_target(solution)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\utils\problem.py", line 200, in get_target
+    objs = self.obj_func(solution)
+  File "C:/Users/ssel512/PycharmProjects/research0902/new_test/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 71, in obj_func
+    if tests.at[tests.index[i], 'z_score_singel'] == 1:  #
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\indexing.py", line 2419, in __getitem__
+    return super().__getitem__(key)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\indexing.py", line 2371, in __getitem__
+    return self.obj._get_value(*key, takeable=self._takeable)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\frame.py", line 3878, in _get_value
+    return series._values[row]
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "C:/Users/ssel512/PycharmProjects/research0902/new_test/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 158, in <module>
+    problem = TBl_problem(bounds=FloatVar(lb=LB, ub=UB), minmax="max", data=tests, save_population=False, log_to=None) #obj_weights=[0.40, 0.60],
+  File "C:/Users/ssel512/PycharmProjects/research0902/new_test/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 13, in __init__
+    super().__init__(bounds, minmax, data=data, **kwargs)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\utils\problem.py", line 28, in __init__
+    self.__set_functions()
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\utils\problem.py", line 65, in __set_functions
+    result = self.obj_func(tested_solution)
+  File "C:/Users/ssel512/PycharmProjects/research0902/new_test/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 54, in obj_func
+    z_score,function_name = z_score_function(rbtc_ret,reth_ret,window1,window2)
+  File "C:\Users\ssel512\PycharmProjects\research0902\new_test\1.GA&Labeling_hyper-parameter_20171109-20220401\baseline_util.py", line 56, in get_z_socre_two_windows
+    frame_info = inspect.getframeinfo(frame)
+  File "D:\anaconda3\envs\pyGPU1117\lib\inspect.py", line 1477, in getframeinfo
+    lines, lnum = findsource(frame)
+  File "D:\anaconda3\envs\pyGPU1117\lib\inspect.py", line 792, in findsource
+    module = getmodule(object, file)
+  File "D:\anaconda3\envs\pyGPU1117\lib\inspect.py", line 751, in getmodule
+    f = getabsfile(module)
+  File "D:\anaconda3\envs\pyGPU1117\lib\inspect.py", line 720, in getabsfile
+    _filename = getsourcefile(object) or getfile(object)
+  File "D:\anaconda3\envs\pyGPU1117\lib\inspect.py", line 705, in getsourcefile
+    if os.path.exists(filename):
+  File "D:\anaconda3\envs\pyGPU1117\lib\genericpath.py", line 19, in exists
+    os.stat(path)
+KeyboardInterrupt

@@ -1,0 +1,5488 @@
+[*********************100%%**********************]  1 of 1 completed
+[*********************100%%**********************]  1 of 1 completed
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 45.9817
+Standard Deviation : 36.3698
+Sharpe Ratio (Rf=0%):1.5564310482168184
+Max Drawdown: -0.6385
+++++++++++++++++++++++++++++++++++++++
+a : 1.1420472562317885
+b : 0.7370319707636402
+k : 4
+window1 : 20
+window2 : 88
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 42.212
+Standard Deviation : 32.1488
+Sharpe Ratio (Rf=0%):1.569227636537343
+Max Drawdown: -0.6552
+++++++++++++++++++++++++++++++++++++++
+a : 1.1420472562317885
+b : 0.6554869241100336
+k : 4
+window1 : 20
+window2 : 88
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 56.903
+Standard Deviation : 38.6926
+Sharpe Ratio (Rf=0%):1.6079073714819432
+Max Drawdown: -0.6996
+++++++++++++++++++++++++++++++++++++++
+a : 1.1420472562317885
+b : 0.3106327290071523
+k : 4
+window1 : 21
+window2 : 33
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 44.8803
+Standard Deviation : 26.4568
+Sharpe Ratio (Rf=0%):1.5104244798047286
+Max Drawdown: -0.5967
+++++++++++++++++++++++++++++++++++++++
+a : 1.7499860268227154
+b : 0.4523634923396813
+k : 4
+window1 : 4
+window2 : 76
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 237.0379
+Standard Deviation : 152.8216
+Sharpe Ratio (Rf=0%):1.8733759879304004
+Max Drawdown: -0.6991
+++++++++++++++++++++++++++++++++++++++
+a : 1.330810090996489
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 170.0498
+Standard Deviation : 122.4699
+Sharpe Ratio (Rf=0%):1.7538698045838101
+Max Drawdown: -0.6887
+++++++++++++++++++++++++++++++++++++++
+a : 1.2058089674985921
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 110.4019
+Standard Deviation : 82.5066
+Sharpe Ratio (Rf=0%):1.6036882422350422
+Max Drawdown: -0.6946
+++++++++++++++++++++++++++++++++++++++
+a : 1.5539978034903958
+b : 0.4523634923396813
+k : 3
+window1 : 1
+window2 : 28
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 82.4497
+Standard Deviation : 66.4157
+Sharpe Ratio (Rf=0%):1.4756500681907305
+Max Drawdown: -0.6981
+++++++++++++++++++++++++++++++++++++++
+a : 1.295033036014357
+b : 0.6066867246479768
+k : 4
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 165.7756
+Standard Deviation : 146.3936
+Sharpe Ratio (Rf=0%):1.7361262111064701
+Max Drawdown: -0.6799
+++++++++++++++++++++++++++++++++++++++
+a : 1.1707755648590656
+b : 0.3047083133394336
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 295.842
+Standard Deviation : 191.532
+Sharpe Ratio (Rf=0%):1.9297340603716895
+Max Drawdown: -0.6991
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 134.3897
+Standard Deviation : 95.5111
+Sharpe Ratio (Rf=0%):1.6507498901460134
+Max Drawdown: -0.6998
+++++++++++++++++++++++++++++++++++++++
+a : 1.7563431548901212
+b : 0.4523634923396813
+k : 3
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 162.2589
+Standard Deviation : 103.3976
+Sharpe Ratio (Rf=0%):1.774369892014275
+Max Drawdown: -0.6926
+++++++++++++++++++++++++++++++++++++++
+a : 1.3993073928567428
+b : 0.18473747926629785
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 83.2819
+Standard Deviation : 61.0226
+Sharpe Ratio (Rf=0%):1.6389759558775892
+Max Drawdown: -0.6923
+++++++++++++++++++++++++++++++++++++++
+a : 1.7657162961576724
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 192.8429
+Standard Deviation : 145.1129
+Sharpe Ratio (Rf=0%):1.7816294970832305
+Max Drawdown: -0.6887
+++++++++++++++++++++++++++++++++++++++
+a : 1.1869384498011444
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 143.0698
+Standard Deviation : 98.0082
+Sharpe Ratio (Rf=0%):1.686158220111471
+Max Drawdown: -0.6746
+++++++++++++++++++++++++++++++++++++++
+a : 1.6187634058205076
+b : 0.35945810952920143
+k : 3
+window1 : 1
+window2 : 26
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 110.4019
+Standard Deviation : 82.5066
+Sharpe Ratio (Rf=0%):1.6036882422350422
+Max Drawdown: -0.6946
+++++++++++++++++++++++++++++++++++++++
+a : 1.5539978034903958
+b : 0.4523634923396813
+k : 3
+window1 : 1
+window2 : 28
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 245.7359
+Standard Deviation : 152.176
+Sharpe Ratio (Rf=0%):1.8539530177412407
+Max Drawdown: -0.6853
+++++++++++++++++++++++++++++++++++++++
+a : 1.203751754093445
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 165.7756
+Standard Deviation : 146.3936
+Sharpe Ratio (Rf=0%):1.7361262111064701
+Max Drawdown: -0.6799
+++++++++++++++++++++++++++++++++++++++
+a : 1.1707755648590656
+b : 0.3047083133394336
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 165.7756
+Standard Deviation : 146.3936
+Sharpe Ratio (Rf=0%):1.7361262111064701
+Max Drawdown: -0.6799
+++++++++++++++++++++++++++++++++++++++
+a : 1.1707755648590656
+b : 0.3047083133394336
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 117.3109
+Standard Deviation : 86.7464
+Sharpe Ratio (Rf=0%):1.6297103931461405
+Max Drawdown: -0.6808
+++++++++++++++++++++++++++++++++++++++
+a : 1.0719012990385115
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 216.2965
+Standard Deviation : 117.9127
+Sharpe Ratio (Rf=0%):1.774687766019349
+Max Drawdown: -0.6432
+++++++++++++++++++++++++++++++++++++++
+a : 1.5539978034903958
+b : 0.4523634923396813
+k : 3
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 71.3777
+Standard Deviation : 31.378
+Sharpe Ratio (Rf=0%):1.471419008267561
+Max Drawdown: -0.6961
+++++++++++++++++++++++++++++++++++++++
+a : 1.3301307292475728
+b : 0.3571266988517925
+k : 22
+window1 : 3
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 196.0619
+Standard Deviation : 136.5017
+Sharpe Ratio (Rf=0%):1.6921552437385365
+Max Drawdown: -0.6632
+++++++++++++++++++++++++++++++++++++++
+a : 1.0742473653727187
+b : 0.3571266988517925
+k : 3
+window1 : 1
+window2 : 60
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 112.1129
+Standard Deviation : 92.4876
+Sharpe Ratio (Rf=0%):1.6862532273437023
+Max Drawdown: -0.6903
+++++++++++++++++++++++++++++++++++++++
+a : 1.684596747093936
+b : 0.4344805383359676
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 196.0619
+Standard Deviation : 136.5017
+Sharpe Ratio (Rf=0%):1.6921552437385365
+Max Drawdown: -0.6632
+++++++++++++++++++++++++++++++++++++++
+a : 1.0742473653727187
+b : 0.3571266988517925
+k : 3
+window1 : 1
+window2 : 60
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 196.0619
+Standard Deviation : 136.5017
+Sharpe Ratio (Rf=0%):1.6921552437385365
+Max Drawdown: -0.6632
+++++++++++++++++++++++++++++++++++++++
+a : 1.0742473653727187
+b : 0.3571266988517925
+k : 3
+window1 : 1
+window2 : 60
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 166.4771
+Standard Deviation : 106.8252
+Sharpe Ratio (Rf=0%):1.7205379143962194
+Max Drawdown: -0.6853
+++++++++++++++++++++++++++++++++++++++
+a : 1.6635703971421427
+b : 0.4523634923396813
+k : 3
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 88.7787
+Standard Deviation : 73.7297
+Sharpe Ratio (Rf=0%):1.6650654129898759
+Max Drawdown: -0.6812
+++++++++++++++++++++++++++++++++++++++
+a : 1.722940141986221
+b : 0.0827745318490254
+k : 2
+window1 : 1
+window2 : 65
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 198.0679
+Standard Deviation : 162.6982
+Sharpe Ratio (Rf=0%):1.778439603042542
+Max Drawdown: -0.6429
+++++++++++++++++++++++++++++++++++++++
+a : 1.1018239973504322
+b : 0.2145178616101144
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 94.2266
+Standard Deviation : 66.1083
+Sharpe Ratio (Rf=0%):1.6587415829732521
+Max Drawdown: -0.6977
+++++++++++++++++++++++++++++++++++++++
+a : 1.5539978034903958
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 295.842
+Standard Deviation : 191.532
+Sharpe Ratio (Rf=0%):1.9297340603716895
+Max Drawdown: -0.6991
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 150.3834
+Standard Deviation : 103.7924
+Sharpe Ratio (Rf=0%):1.7836213010154542
+Max Drawdown: -0.6409
+++++++++++++++++++++++++++++++++++++++
+a : 1.719116779684791
+b : 0.3571266988517925
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 423.1094
+Standard Deviation : 275.1251
+Sharpe Ratio (Rf=0%):1.9714245828983155
+Max Drawdown: -0.6873
+++++++++++++++++++++++++++++++++++++++
+a : 1.2058089674985921
+b : 0.412971818233827
+k : 2
+window1 : 1
+window2 : 78
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 146.6287
+Standard Deviation : 123.1437
+Sharpe Ratio (Rf=0%):1.6781349824947864
+Max Drawdown: -0.6979
+++++++++++++++++++++++++++++++++++++++
+a : 1.6467016977572206
+b : 0.4523634923396813
+k : 3
+window1 : 1
+window2 : 52
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 245.7359
+Standard Deviation : 152.176
+Sharpe Ratio (Rf=0%):1.8539530177412407
+Max Drawdown: -0.6853
+++++++++++++++++++++++++++++++++++++++
+a : 1.203751754093445
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 249.2514
+Standard Deviation : 213.8298
+Sharpe Ratio (Rf=0%):1.8210168447688306
+Max Drawdown: -0.6808
+++++++++++++++++++++++++++++++++++++++
+a : 1.1707755648590656
+b : 0.5303622325896623
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 109.2061
+Standard Deviation : 91.3845
+Sharpe Ratio (Rf=0%):1.674807746964834
+Max Drawdown: -0.6917
+++++++++++++++++++++++++++++++++++++++
+a : 1.6622292379637877
+b : 0.4936578883848024
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 320.8259
+Standard Deviation : 240.2658
+Sharpe Ratio (Rf=0%):1.8915844404322377
+Max Drawdown: -0.6981
+++++++++++++++++++++++++++++++++++++++
+a : 1.222579060211398
+b : 0.5401414161048119
+k : 2
+window1 : 1
+window2 : 78
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 216.2965
+Standard Deviation : 117.9127
+Sharpe Ratio (Rf=0%):1.774687766019349
+Max Drawdown: -0.6432
+++++++++++++++++++++++++++++++++++++++
+a : 1.5539978034903958
+b : 0.4523634923396813
+k : 3
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 192.8429
+Standard Deviation : 145.1129
+Sharpe Ratio (Rf=0%):1.7816294970832305
+Max Drawdown: -0.6887
+++++++++++++++++++++++++++++++++++++++
+a : 1.1869384498011444
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 306.1997
+Standard Deviation : 196.1874
+Sharpe Ratio (Rf=0%):1.8917082051907292
+Max Drawdown: -0.689
+++++++++++++++++++++++++++++++++++++++
+a : 1.203751754093445
+b : 0.29675162545735784
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 186.287
+Standard Deviation : 141.7225
+Sharpe Ratio (Rf=0%):1.777556664141636
+Max Drawdown: -0.6946
+++++++++++++++++++++++++++++++++++++++
+a : 1.1869384498011444
+b : 0.10835253852739586
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 271.6014
+Standard Deviation : 237.0788
+Sharpe Ratio (Rf=0%):1.827080306309882
+Max Drawdown: -0.6808
+++++++++++++++++++++++++++++++++++++++
+a : 1.1092447119477573
+b : 0.5303622325896623
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 98.1303
+Standard Deviation : 63.1045
+Sharpe Ratio (Rf=0%):1.6503075983854891
+Max Drawdown: -0.6699
+++++++++++++++++++++++++++++++++++++++
+a : 1.4537778043107568
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 248.5179
+Standard Deviation : 149.0198
+Sharpe Ratio (Rf=0%):1.843322257429373
+Max Drawdown: -0.6639
+++++++++++++++++++++++++++++++++++++++
+a : 1.2058089674985921
+b : 0.27494026477716665
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 277.6313
+Standard Deviation : 166.8624
+Sharpe Ratio (Rf=0%):2.003812285210877
+Max Drawdown: -0.5925
+++++++++++++++++++++++++++++++++++++++
+a : 1.5539978034903958
+b : 0.18347212730288423
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 204.6267
+Standard Deviation : 160.8282
+Sharpe Ratio (Rf=0%):1.8466381991875251
+Max Drawdown: -0.6992
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.16382408448046268
+k : 2
+window1 : 1
+window2 : 27
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 275.9699
+Standard Deviation : 173.0315
+Sharpe Ratio (Rf=0%):1.8863955373801466
+Max Drawdown: -0.6853
+++++++++++++++++++++++++++++++++++++++
+a : 1.2058089674985921
+b : 0.18449775378320735
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 81.5616
+Standard Deviation : 67.078
+Sharpe Ratio (Rf=0%):1.5990208720159227
+Max Drawdown: -0.683
+++++++++++++++++++++++++++++++++++++++
+a : 1.6738690829053904
+b : 0.4936578883848024
+k : 2
+window1 : 1
+window2 : 85
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 249.2514
+Standard Deviation : 213.8298
+Sharpe Ratio (Rf=0%):1.8210168447688306
+Max Drawdown: -0.6808
+++++++++++++++++++++++++++++++++++++++
+a : 1.1707755648590656
+b : 0.5303622325896623
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 285.7845
+Standard Deviation : 186.3002
+Sharpe Ratio (Rf=0%):1.9266424056413718
+Max Drawdown: -0.6972
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.10835253852739586
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 264.4121
+Standard Deviation : 194.7602
+Sharpe Ratio (Rf=0%):1.9802326104384307
+Max Drawdown: -0.6722
+++++++++++++++++++++++++++++++++++++++
+a : 1.7409792676181464
+b : 0.2188574660925552
+k : 2
+window1 : 1
+window2 : 27
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 319.1463
+Standard Deviation : 187.0765
+Sharpe Ratio (Rf=0%):2.05955778723238
+Max Drawdown: -0.597
+++++++++++++++++++++++++++++++++++++++
+a : 1.5539978034903958
+b : 0.09074241355962231
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 232.6176
+Standard Deviation : 143.2143
+Sharpe Ratio (Rf=0%):1.8432998501800355
+Max Drawdown: -0.6805
+++++++++++++++++++++++++++++++++++++++
+a : 1.203751754093445
+b : 0.10835253852739586
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 244.9842
+Standard Deviation : 145.8947
+Sharpe Ratio (Rf=0%):1.797609852488118
+Max Drawdown: -0.6827
+++++++++++++++++++++++++++++++++++++++
+a : 1.015798674440707
+b : 0.18449775378320735
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 89.3734
+Standard Deviation : 65.1761
+Sharpe Ratio (Rf=0%):1.6615701451675602
+Max Drawdown: -0.6908
+++++++++++++++++++++++++++++++++++++++
+a : 1.772194938093716
+b : 0.15786893927453244
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 114.4796
+Standard Deviation : 86.0823
+Sharpe Ratio (Rf=0%):1.6196838751399047
+Max Drawdown: -0.6637
+++++++++++++++++++++++++++++++++++++++
+a : 1.4290180489406081
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 258.3488
+Standard Deviation : 192.0567
+Sharpe Ratio (Rf=0%):1.8608545781234862
+Max Drawdown: -0.6885
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.6524330789074656
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 54.5993
+Standard Deviation : 37.7551
+Sharpe Ratio (Rf=0%):1.5128767554178544
+Max Drawdown: -0.6702
+++++++++++++++++++++++++++++++++++++++
+a : 1.663306751516788
+b : 0.18347212730288423
+k : 2
+window1 : 1
+window2 : 87
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 179.4091
+Standard Deviation : 142.744
+Sharpe Ratio (Rf=0%):1.7436110308382606
+Max Drawdown: -0.6917
+++++++++++++++++++++++++++++++++++++++
+a : 1.1366744827289939
+b : 0.2555090413911546
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 400.6736
+Standard Deviation : 243.4831
+Sharpe Ratio (Rf=0%):2.0348995291786363
+Max Drawdown: -0.5834
+++++++++++++++++++++++++++++++++++++++
+a : 1.5539978034903958
+b : 0.5699036734445515
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 240.8267
+Standard Deviation : 147.0315
+Sharpe Ratio (Rf=0%):1.8528171003514942
+Max Drawdown: -0.6805
+++++++++++++++++++++++++++++++++++++++
+a : 1.203751754093445
+b : 0.10338610668662429
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 241.5629
+Standard Deviation : 192.7781
+Sharpe Ratio (Rf=0%):2.006402235978035
+Max Drawdown: -0.6909
+++++++++++++++++++++++++++++++++++++++
+a : 1.790976757539636
+b : 0.1589633086140921
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 203.9607
+Standard Deviation : 131.9688
+Sharpe Ratio (Rf=0%):1.849994155288782
+Max Drawdown: -0.6916
+++++++++++++++++++++++++++++++++++++++
+a : 1.3190763946201134
+b : 0.031381689392517634
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 95.248
+Standard Deviation : 72.3719
+Sharpe Ratio (Rf=0%):1.66484035481893
+Max Drawdown: -0.6959
+++++++++++++++++++++++++++++++++++++++
+a : 1.778226329204975
+b : 0.2744428631950951
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 291.5626
+Standard Deviation : 178.6642
+Sharpe Ratio (Rf=0%):1.899460073651491
+Max Drawdown: -0.6805
+++++++++++++++++++++++++++++++++++++++
+a : 1.1957593695820194
+b : 0.10342152816274633
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 192.6481
+Standard Deviation : 135.7694
+Sharpe Ratio (Rf=0%):1.7684505879996917
+Max Drawdown: -0.6784
+++++++++++++++++++++++++++++++++++++++
+a : 1.324815394462322
+b : 0.8078441439598598
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 232.3629
+Standard Deviation : 195.3039
+Sharpe Ratio (Rf=0%):1.7994107262910028
+Max Drawdown: -0.6782
+++++++++++++++++++++++++++++++++++++++
+a : 1.1949857846180092
+b : 0.5856178031732021
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 97.9303
+Standard Deviation : 81.8752
+Sharpe Ratio (Rf=0%):1.640866853529085
+Max Drawdown: -0.6958
+++++++++++++++++++++++++++++++++++++++
+a : 1.5875934323466634
+b : 0.44000680693744376
+k : 2
+window1 : 1
+window2 : 82
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 343.2806
+Standard Deviation : 217.2379
+Sharpe Ratio (Rf=0%):1.919889534618761
+Max Drawdown: -0.6807
+++++++++++++++++++++++++++++++++++++++
+a : 1.203751754093445
+b : 0.33235513325557214
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 259.0734
+Standard Deviation : 163.1647
+Sharpe Ratio (Rf=0%):1.8567601626266532
+Max Drawdown: -0.6871
+++++++++++++++++++++++++++++++++++++++
+a : 1.203751754093445
+b : 0.2434044914457538
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 91.0694
+Standard Deviation : 55.2495
+Sharpe Ratio (Rf=0%):1.6275734447504797
+Max Drawdown: -0.6834
+++++++++++++++++++++++++++++++++++++++
+a : 1.3159250113391678
+b : 0.02074134424873142
+k : 2
+window1 : 1
+window2 : 87
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 105.3924
+Standard Deviation : 78.9657
+Sharpe Ratio (Rf=0%):1.681274446785713
+Max Drawdown: -0.6829
+++++++++++++++++++++++++++++++++++++++
+a : 1.542458417570864
+b : 0.25913620652403246
+k : 2
+window1 : 1
+window2 : 74
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 187.8237
+Standard Deviation : 116.9802
+Sharpe Ratio (Rf=0%):1.7895067976624306
+Max Drawdown: -0.6919
+++++++++++++++++++++++++++++++++++++++
+a : 1.2309218482951252
+b : 0.1589633086140921
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 201.6566
+Standard Deviation : 151.1914
+Sharpe Ratio (Rf=0%):1.78939466273285
+Max Drawdown: -0.6853
+++++++++++++++++++++++++++++++++++++++
+a : 1.154621343921559
+b : 0.1753634827955523
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 135.8457
+Standard Deviation : 120.2265
+Sharpe Ratio (Rf=0%):1.682244871786047
+Max Drawdown: -0.6953
+++++++++++++++++++++++++++++++++++++++
+a : 1.0682343007556951
+b : 0.10592564410483206
+k : 2
+window1 : 1
+window2 : 66
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 260.2329
+Standard Deviation : 193.9606
+Sharpe Ratio (Rf=0%):1.8249362198716195
+Max Drawdown: -0.6859
+++++++++++++++++++++++++++++++++++++++
+a : 1.097175571510277
+b : 0.36096663221407244
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 85.3221
+Standard Deviation : 72.1573
+Sharpe Ratio (Rf=0%):1.615438714101006
+Max Drawdown: -0.6922
+++++++++++++++++++++++++++++++++++++++
+a : 1.7919233284109293
+b : 0.5310212841544533
+k : 2
+window1 : 1
+window2 : 87
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 252.9408
+Standard Deviation : 161.3134
+Sharpe Ratio (Rf=0%):1.9002018556834674
+Max Drawdown: -0.6988
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.07343444155147316
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 136.6863
+Standard Deviation : 108.7728
+Sharpe Ratio (Rf=0%):1.6648314815417118
+Max Drawdown: -0.6974
+++++++++++++++++++++++++++++++++++++++
+a : 1.0979776169244377
+b : 0.2961751397732415
+k : 2
+window1 : 1
+window2 : 87
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 277.7975
+Standard Deviation : 173.2972
+Sharpe Ratio (Rf=0%):1.9226204450025959
+Max Drawdown: -0.6988
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.09618569180612735
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 92.2772
+Standard Deviation : 69.203
+Sharpe Ratio (Rf=0%):1.579353934545358
+Max Drawdown: -0.6878
+++++++++++++++++++++++++++++++++++++++
+a : 1.0894682022861415
+b : 0.1753634827955523
+k : 2
+window1 : 1
+window2 : 86
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 100.8488
+Standard Deviation : 79.712
+Sharpe Ratio (Rf=0%):1.654166763915907
+Max Drawdown: -0.676
+++++++++++++++++++++++++++++++++++++++
+a : 1.5845629818638463
+b : 0.40389163236917514
+k : 2
+window1 : 1
+window2 : 85
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 327.8448
+Standard Deviation : 244.5621
+Sharpe Ratio (Rf=0%):1.895515078012989
+Max Drawdown: -0.68
+++++++++++++++++++++++++++++++++++++++
+a : 1.1942188263628783
+b : 0.3846597221689312
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 118.0531
+Standard Deviation : 102.7831
+Sharpe Ratio (Rf=0%):1.6619873316693716
+Max Drawdown: -0.7
+++++++++++++++++++++++++++++++++++++++
+a : 1.73654578683239
+b : 0.9158479832505355
+k : 2
+window1 : 1
+window2 : 52
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 260.8668
+Standard Deviation : 166.4279
+Sharpe Ratio (Rf=0%):1.9089942461021676
+Max Drawdown: -0.6988
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.06999072715871413
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 96.9271
+Standard Deviation : 71.6257
+Sharpe Ratio (Rf=0%):1.592930745360247
+Max Drawdown: -0.6852
+++++++++++++++++++++++++++++++++++++++
+a : 1.0894682022861415
+b : 0.14278728144231367
+k : 2
+window1 : 1
+window2 : 86
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 276.9156
+Standard Deviation : 196.852
+Sharpe Ratio (Rf=0%):1.8714074061279604
+Max Drawdown: -0.6826
+++++++++++++++++++++++++++++++++++++++
+a : 1.1865353707267488
+b : 0.22420175455949456
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 84.4179
+Standard Deviation : 59.4354
+Sharpe Ratio (Rf=0%):1.5270120570515897
+Max Drawdown: -0.6753
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.9158479832505355
+k : 2
+window1 : 1
+window2 : 22
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 172.6371
+Standard Deviation : 127.5695
+Sharpe Ratio (Rf=0%):1.7858830571260058
+Max Drawdown: -0.6801
+++++++++++++++++++++++++++++++++++++++
+a : 1.3505742800966425
+b : 0.3996194565404082
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 181.39
+Standard Deviation : 140.2538
+Sharpe Ratio (Rf=0%):1.8293326513816524
+Max Drawdown: -0.6865
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.06322628508846148
+k : 2
+window1 : 1
+window2 : 27
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 162.2772
+Standard Deviation : 121.5109
+Sharpe Ratio (Rf=0%):1.6748235284472837
+Max Drawdown: -0.6676
+++++++++++++++++++++++++++++++++++++++
+a : 1.230868538151592
+b : 0.8557566521783794
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 47.8163
+Standard Deviation : 16.9254
+Sharpe Ratio (Rf=0%):1.5967681964975422
+Max Drawdown: -0.4567
+++++++++++++++++++++++++++++++++++++++
+a : 1.3505742800966425
+b : 0.8019712612741318
+k : 2
+window1 : 4
+window2 : 87
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 197.5408
+Standard Deviation : 136.136
+Sharpe Ratio (Rf=0%):1.7506012009274
+Max Drawdown: -0.6956
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 23
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 186.1941
+Standard Deviation : 139.7792
+Sharpe Ratio (Rf=0%):1.7216667078444619
+Max Drawdown: -0.6708
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 269.1864
+Standard Deviation : 171.8044
+Sharpe Ratio (Rf=0%):1.9157653907920007
+Max Drawdown: -0.6988
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.08920057121338142
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 69.3245
+Standard Deviation : 55.0285
+Sharpe Ratio (Rf=0%):1.565805492686332
+Max Drawdown: -0.6959
+++++++++++++++++++++++++++++++++++++++
+a : 1.6265401901689405
+b : 0.2706379770749151
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 131.893
+Standard Deviation : 97.1147
+Sharpe Ratio (Rf=0%):1.67733605376214
+Max Drawdown: -0.687
+++++++++++++++++++++++++++++++++++++++
+a : 1.230868538151592
+b : 0.33161831255988977
+k : 2
+window1 : 1
+window2 : 86
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 395.4551
+Standard Deviation : 260.2347
+Sharpe Ratio (Rf=0%):1.9839133655243029
+Max Drawdown: -0.6983
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.3846100549239653
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 330.0452
+Standard Deviation : 213.1685
+Sharpe Ratio (Rf=0%):1.9375376868363614
+Max Drawdown: -0.6997
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.28124340742780274
+k : 2
+window1 : 1
+window2 : 80
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 209.595
+Standard Deviation : 157.7981
+Sharpe Ratio (Rf=0%):1.7544714326904371
+Max Drawdown: -0.6708
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.9158479832505355
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 78.8961
+Standard Deviation : 55.9454
+Sharpe Ratio (Rf=0%):1.615893768094992
+Max Drawdown: -0.6674
+++++++++++++++++++++++++++++++++++++++
+a : 1.6994000149716495
+b : 0.23279647391267502
+k : 2
+window1 : 1
+window2 : 80
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 286.6425
+Standard Deviation : 187.058
+Sharpe Ratio (Rf=0%):1.8989169719414432
+Max Drawdown: -0.6932
+++++++++++++++++++++++++++++++++++++++
+a : 1.3923645039649135
+b : 0.3574620587342023
+k : 2
+window1 : 1
+window2 : 80
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 85.4468
+Standard Deviation : 61.007
+Sharpe Ratio (Rf=0%):1.611750453520162
+Max Drawdown: -0.6524
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.045640629712636355
+k : 2
+window1 : 1
+window2 : 22
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 272.3925
+Standard Deviation : 207.475
+Sharpe Ratio (Rf=0%):1.844454625317048
+Max Drawdown: -0.68
+++++++++++++++++++++++++++++++++++++++
+a : 1.1588884671850705
+b : 0.3836268927303473
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 262.8102
+Standard Deviation : 167.7232
+Sharpe Ratio (Rf=0%):1.909280759317008
+Max Drawdown: -0.6988
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.08592125626433307
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 54.7155
+Standard Deviation : 45.1998
+Sharpe Ratio (Rf=0%):1.4908596750043825
+Max Drawdown: -0.687
+++++++++++++++++++++++++++++++++++++++
+a : 1.7562079933157881
+b : 0.35970628713325137
+k : 2
+window1 : 1
+window2 : 89
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 259.0365
+Standard Deviation : 163.452
+Sharpe Ratio (Rf=0%):1.9029163802389775
+Max Drawdown: -0.6999
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.11704293307534586
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 334.8461
+Standard Deviation : 265.7695
+Sharpe Ratio (Rf=0%):1.8900040045263982
+Max Drawdown: -0.6775
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.5867456684282989
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 319.8633
+Standard Deviation : 233.9318
+Sharpe Ratio (Rf=0%):1.8790633418352767
+Max Drawdown: -0.68
+++++++++++++++++++++++++++++++++++++++
+a : 1.107507215770883
+b : 0.3846597221689312
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 305.2504
+Standard Deviation : 232.0739
+Sharpe Ratio (Rf=0%):1.878621781846257
+Max Drawdown: -0.6767
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.3996194565404082
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 164.021
+Standard Deviation : 102.8349
+Sharpe Ratio (Rf=0%):1.7762308700822307
+Max Drawdown: -0.6959
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.09721223594641676
+k : 2
+window1 : 1
+window2 : 85
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 402.252
+Standard Deviation : 264.9084
+Sharpe Ratio (Rf=0%):1.9889116580261625
+Max Drawdown: -0.6983
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.37371238690804204
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 242.9295
+Standard Deviation : 181.4873
+Sharpe Ratio (Rf=0%):1.7932994457651903
+Max Drawdown: -0.6708
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.9158479832505355
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 266.5901
+Standard Deviation : 168.2823
+Sharpe Ratio (Rf=0%):1.9110515596358866
+Max Drawdown: -0.6999
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.1167829687450846
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 111.3062
+Standard Deviation : 64.6201
+Sharpe Ratio (Rf=0%):1.6131333245565127
+Max Drawdown: -0.6123
+++++++++++++++++++++++++++++++++++++++
+a : 1.523949342718447
+b : 0.984309824938519
+k : 2
+window1 : 1
+window2 : 22
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 319.8633
+Standard Deviation : 233.9318
+Sharpe Ratio (Rf=0%):1.8790633418352767
+Max Drawdown: -0.68
+++++++++++++++++++++++++++++++++++++++
+a : 1.107507215770883
+b : 0.3846597221689312
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 47.3469
+Standard Deviation : 31.6621
+Sharpe Ratio (Rf=0%):1.4826126895746004
+Max Drawdown: -0.6494
+++++++++++++++++++++++++++++++++++++++
+a : 1.734803645916194
+b : 0.09486600099349471
+k : 2
+window1 : 1
+window2 : 85
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 80.5036
+Standard Deviation : 58.2654
+Sharpe Ratio (Rf=0%):1.6248723378301595
+Max Drawdown: -0.6901
+++++++++++++++++++++++++++++++++++++++
+a : 1.7600013683766678
+b : 0.21767142085659533
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 172.6144
+Standard Deviation : 119.8781
+Sharpe Ratio (Rf=0%):1.7562548127724396
+Max Drawdown: -0.6978
+++++++++++++++++++++++++++++++++++++++
+a : 1.5600286261268357
+b : 0.9158479832505355
+k : 2
+window1 : 1
+window2 : 23
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 101.1144
+Standard Deviation : 68.8156
+Sharpe Ratio (Rf=0%):1.664139702848224
+Max Drawdown: -0.6751
+++++++++++++++++++++++++++++++++++++++
+a : 1.6215702260684899
+b : 0.3256223553697708
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 289.3413
+Standard Deviation : 231.225
+Sharpe Ratio (Rf=0%):1.8652325145835607
+Max Drawdown: -0.6785
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.3846597221689312
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 183.0759
+Standard Deviation : 112.3047
+Sharpe Ratio (Rf=0%):1.7925141847898762
+Max Drawdown: -0.6906
+++++++++++++++++++++++++++++++++++++++
+a : 1.3994220695161774
+b : 0.2622967141229947
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 271.7494
+Standard Deviation : 173.8046
+Sharpe Ratio (Rf=0%):1.865153721566332
+Max Drawdown: -0.689
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.27102039470474854
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 200.7961
+Standard Deviation : 149.739
+Sharpe Ratio (Rf=0%):1.775389486431021
+Max Drawdown: -0.6897
+++++++++++++++++++++++++++++++++++++++
+a : 1.1808152988482092
+b : 0.3127998081686129
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 112.9333
+Standard Deviation : 99.2471
+Sharpe Ratio (Rf=0%):1.644054843876395
+Max Drawdown: -0.6935
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.25242627264945117
+k : 2
+window1 : 1
+window2 : 50
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 137.16
+Standard Deviation : 86.6559
+Sharpe Ratio (Rf=0%):1.7228082413464547
+Max Drawdown: -0.6984
+++++++++++++++++++++++++++++++++++++++
+a : 1.4502633071472786
+b : 0.31859111544167196
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 100.476
+Standard Deviation : 69.025
+Sharpe Ratio (Rf=0%):1.693266270716443
+Max Drawdown: -0.6669
+++++++++++++++++++++++++++++++++++++++
+a : 1.774195232529888
+b : 0.2100774345127942
+k : 2
+window1 : 1
+window2 : 80
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 395.4551
+Standard Deviation : 260.2347
+Sharpe Ratio (Rf=0%):1.9839133655243029
+Max Drawdown: -0.6983
+++++++++++++++++++++++++++++++++++++++
+a : 1.3154824387848956
+b : 0.38291083030182776
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 261.8944
+Standard Deviation : 169.9732
+Sharpe Ratio (Rf=0%):1.8576906152631323
+Max Drawdown: -0.6946
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.2624502258696934
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 159.2733
+Standard Deviation : 103.6737
+Sharpe Ratio (Rf=0%):1.7276114230396853
+Max Drawdown: -0.6674
+++++++++++++++++++++++++++++++++++++++
+a : 1.5152770313317507
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 23
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 286.6545
+Standard Deviation : 217.5157
+Sharpe Ratio (Rf=0%):1.8881570969027206
+Max Drawdown: -0.6933
+++++++++++++++++++++++++++++++++++++++
+a : 1.2111670573979847
+b : 0.22349298364217782
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 77.8522
+Standard Deviation : 65.2906
+Sharpe Ratio (Rf=0%):1.5197016353804627
+Max Drawdown: -0.664
+++++++++++++++++++++++++++++++++++++++
+a : 1.0191888032115382
+b : 0.058878592836832694
+k : 2
+window1 : 1
+window2 : 57
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 88.0984
+Standard Deviation : 59.613
+Sharpe Ratio (Rf=0%):1.605739869685319
+Max Drawdown: -0.6909
+++++++++++++++++++++++++++++++++++++++
+a : 1.4398134984572784
+b : 0.2713187254656219
+k : 2
+window1 : 1
+window2 : 79
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 58.2776
+Standard Deviation : 39.4591
+Sharpe Ratio (Rf=0%):1.5060749059697756
+Max Drawdown: -0.6449
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.9261736654085062
+k : 5
+window1 : 19
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 254.7306
+Standard Deviation : 159.5108
+Sharpe Ratio (Rf=0%):1.8688166239718063
+Max Drawdown: -0.6805
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.07576166322188549
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 40.75
+Standard Deviation : 28.8192
+Sharpe Ratio (Rf=0%):1.4216334064338034
+Max Drawdown: -0.6745
+++++++++++++++++++++++++++++++++++++++
+a : 1.5221362607999374
+b : 0.02726380254896038
+k : 2
+window1 : 1
+window2 : 80
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 364.852
+Standard Deviation : 237.7994
+Sharpe Ratio (Rf=0%):1.962827313612053
+Max Drawdown: -0.699
+++++++++++++++++++++++++++++++++++++++
+a : 1.2912755779799416
+b : 0.3355054853763753
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 69.3874
+Standard Deviation : 50.1907
+Sharpe Ratio (Rf=0%):1.5840478382558298
+Max Drawdown: -0.6791
+++++++++++++++++++++++++++++++++++++++
+a : 1.640653106541825
+b : 0.15042686242401293
+k : 2
+window1 : 1
+window2 : 80
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 90.0915
+Standard Deviation : 69.8929
+Sharpe Ratio (Rf=0%):1.5135604921100487
+Max Drawdown: -0.6878
+++++++++++++++++++++++++++++++++++++++
+a : 1.1298611727198442
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 204.1141
+Standard Deviation : 135.0903
+Sharpe Ratio (Rf=0%):1.7976219842671008
+Max Drawdown: -0.6655
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.21459830512075737
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 154.8618
+Standard Deviation : 87.0917
+Sharpe Ratio (Rf=0%):1.7051010530459827
+Max Drawdown: -0.6617
+++++++++++++++++++++++++++++++++++++++
+a : 1.0619092732140507
+b : 0.06312767461855466
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 198.6409
+Standard Deviation : 122.593
+Sharpe Ratio (Rf=0%):1.8355404721084743
+Max Drawdown: -0.6903
+++++++++++++++++++++++++++++++++++++++
+a : 1.2912755779799416
+b : 0.053018300203188436
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 189.5795
+Standard Deviation : 109.3005
+Sharpe Ratio (Rf=0%):1.8226717200536027
+Max Drawdown: -0.6777
+++++++++++++++++++++++++++++++++++++++
+a : 1.3205439351527488
+b : 0.06392877576450799
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 163.8907
+Standard Deviation : 100.6386
+Sharpe Ratio (Rf=0%):1.764035625605959
+Max Drawdown: -0.6899
+++++++++++++++++++++++++++++++++++++++
+a : 1.275715577136055
+b : 0.1088693197883168
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 203.628
+Standard Deviation : 149.0723
+Sharpe Ratio (Rf=0%):1.7690631977321953
+Max Drawdown: -0.6993
+++++++++++++++++++++++++++++++++++++++
+a : 1.092315337686293
+b : 0.276613690077707
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 100.0846
+Standard Deviation : 74.0858
+Sharpe Ratio (Rf=0%):1.6583391458614787
+Max Drawdown: -0.6904
+++++++++++++++++++++++++++++++++++++++
+a : 1.4464864674035787
+b : 0.06733805166546951
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 183.7822
+Standard Deviation : 118.2723
+Sharpe Ratio (Rf=0%):1.7772111725434228
+Max Drawdown: -0.6543
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.10446426372336495
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 175.5229
+Standard Deviation : 106.1022
+Sharpe Ratio (Rf=0%):1.6994488834296535
+Max Drawdown: -0.6772
+++++++++++++++++++++++++++++++++++++++
+a : 1.0254761134526622
+b : 0.3087224653956566
+k : 2
+window1 : 1
+window2 : 85
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 105.6084
+Standard Deviation : 81.3484
+Sharpe Ratio (Rf=0%):1.68331303293043
+Max Drawdown: -0.6861
+++++++++++++++++++++++++++++++++++++++
+a : 1.7367109044024338
+b : 0.3355054853763753
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 156.2026
+Standard Deviation : 125.3381
+Sharpe Ratio (Rf=0%):1.7315103656436224
+Max Drawdown: -0.6478
+++++++++++++++++++++++++++++++++++++++
+a : 1.2306290313521793
+b : 0.2392927404328361
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 272.9591
+Standard Deviation : 184.1314
+Sharpe Ratio (Rf=0%):1.8960796941450537
+Max Drawdown: -0.6396
+++++++++++++++++++++++++++++++++++++++
+a : 1.2111670573979847
+b : 0.07092417112144515
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 336.615
+Standard Deviation : 264.3058
+Sharpe Ratio (Rf=0%):1.8940630273730557
+Max Drawdown: -0.6789
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.5518264438692891
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 85.0312
+Standard Deviation : 53.6293
+Sharpe Ratio (Rf=0%):1.6146064459653968
+Max Drawdown: -0.6911
+++++++++++++++++++++++++++++++++++++++
+a : 1.4656160845624886
+b : 0.13468770220741536
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 105.2001
+Standard Deviation : 85.6529
+Sharpe Ratio (Rf=0%):1.6724767490945975
+Max Drawdown: -0.6895
+++++++++++++++++++++++++++++++++++++++
+a : 1.7399344981462739
+b : 0.4603595668286758
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 204.1141
+Standard Deviation : 135.0903
+Sharpe Ratio (Rf=0%):1.7976219842671008
+Max Drawdown: -0.6655
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.21459830512075737
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 261.7399
+Standard Deviation : 206.839
+Sharpe Ratio (Rf=0%):1.8574358783039824
+Max Drawdown: -0.6906
+++++++++++++++++++++++++++++++++++++++
+a : 1.2912755779799416
+b : 0.5221456827160437
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 161.2925
+Standard Deviation : 131.7832
+Sharpe Ratio (Rf=0%):1.690970663271912
+Max Drawdown: -0.679
+++++++++++++++++++++++++++++++++++++++
+a : 1.1666529025879644
+b : 0.48227016955955837
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 372.6847
+Standard Deviation : 251.3993
+Sharpe Ratio (Rf=0%):1.9972980360634516
+Max Drawdown: -0.6116
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.15456282349645245
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 107.6859
+Standard Deviation : 89.7119
+Sharpe Ratio (Rf=0%):1.5892249603409083
+Max Drawdown: -0.6966
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.8493127569089332
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 121.5519
+Standard Deviation : 81.6238
+Sharpe Ratio (Rf=0%):1.7062413566656471
+Max Drawdown: -0.6871
+++++++++++++++++++++++++++++++++++++++
+a : 1.3805106210975344
+b : 0.0715879406007588
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 253.8956
+Standard Deviation : 184.8735
+Sharpe Ratio (Rf=0%):1.7882769316969909
+Max Drawdown: -0.6683
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 161.465
+Standard Deviation : 117.4937
+Sharpe Ratio (Rf=0%):1.7007429219426324
+Max Drawdown: -0.6591
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.5089221741368579
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 367.8917
+Standard Deviation : 240.8736
+Sharpe Ratio (Rf=0%):1.9998924806068874
+Max Drawdown: -0.6115
+++++++++++++++++++++++++++++++++++++++
+a : 1.337313901569362
+b : 0.15456282349645245
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 82.8044
+Standard Deviation : 54.0416
+Sharpe Ratio (Rf=0%):1.609206690640081
+Max Drawdown: -0.6888
+++++++++++++++++++++++++++++++++++++++
+a : 1.4988757767439362
+b : 0.15456282349645245
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 369.5803
+Standard Deviation : 221.5876
+Sharpe Ratio (Rf=0%):1.9491541663069294
+Max Drawdown: -0.6591
+++++++++++++++++++++++++++++++++++++++
+a : 1.2427962463253495
+b : 0.3467737939365033
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 380.4294
+Standard Deviation : 286.0572
+Sharpe Ratio (Rf=0%):1.9255568265266085
+Max Drawdown: -0.6989
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.6359202473581054
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 272.5394
+Standard Deviation : 177.0231
+Sharpe Ratio (Rf=0%):1.8764509140085956
+Max Drawdown: -0.6956
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.23799366048783463
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 164.5733
+Standard Deviation : 137.0193
+Sharpe Ratio (Rf=0%):1.720064071333933
+Max Drawdown: -0.6849
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.40241640209826424
+k : 2
+window1 : 1
+window2 : 86
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 126.7626
+Standard Deviation : 99.3924
+Sharpe Ratio (Rf=0%):1.6673331895064105
+Max Drawdown: -0.6893
+++++++++++++++++++++++++++++++++++++++
+a : 1.1234576095130273
+b : 0.10688968998373084
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 149.4536
+Standard Deviation : 115.9562
+Sharpe Ratio (Rf=0%):1.7665692135085675
+Max Drawdown: -0.6819
+++++++++++++++++++++++++++++++++++++++
+a : 1.7663446488572052
+b : 0.546162448345431
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 184.5568
+Standard Deviation : 113.9221
+Sharpe Ratio (Rf=0%):1.809231572586143
+Max Drawdown: -0.6886
+++++++++++++++++++++++++++++++++++++++
+a : 1.4039593758474918
+b : 0.19004268538697536
+k : 2
+window1 : 1
+window2 : 76
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 237.3042
+Standard Deviation : 151.9036
+Sharpe Ratio (Rf=0%):1.8419235801795983
+Max Drawdown: -0.6589
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.15844709239835864
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 228.0547
+Standard Deviation : 146.5088
+Sharpe Ratio (Rf=0%):1.8308184978149507
+Max Drawdown: -0.6589
+++++++++++++++++++++++++++++++++++++++
+a : 1.196699818984222
+b : 0.16881038751979913
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 85.4434
+Standard Deviation : 61.0042
+Sharpe Ratio (Rf=0%):1.6196286756130271
+Max Drawdown: -0.6714
+++++++++++++++++++++++++++++++++++++++
+a : 1.5368415160431792
+b : 0.25992036503916405
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 92.9822
+Standard Deviation : 65.5625
+Sharpe Ratio (Rf=0%):1.5499298280930307
+Max Drawdown: -0.6753
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 22
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 119.8833
+Standard Deviation : 72.4943
+Sharpe Ratio (Rf=0%):1.7056959297020797
+Max Drawdown: -0.6787
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.02902217574019638
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 222.116
+Standard Deviation : 147.4403
+Sharpe Ratio (Rf=0%):1.8515499828758368
+Max Drawdown: -0.6922
+++++++++++++++++++++++++++++++++++++++
+a : 1.2753801014580612
+b : 0.08508076181056107
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 188.7795
+Standard Deviation : 116.5003
+Sharpe Ratio (Rf=0%):1.804273661174307
+Max Drawdown: -0.6489
+++++++++++++++++++++++++++++++++++++++
+a : 1.2381027240336269
+b : 0.06880196166630859
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 172.888
+Standard Deviation : 138.8313
+Sharpe Ratio (Rf=0%):1.8105816031081066
+Max Drawdown: -0.6766
+++++++++++++++++++++++++++++++++++++++
+a : 1.705136628046528
+b : 0.48032594946216856
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 147.8378
+Standard Deviation : 119.755
+Sharpe Ratio (Rf=0%):1.6974792710603135
+Max Drawdown: -0.6971
+++++++++++++++++++++++++++++++++++++++
+a : 1.1743553648301561
+b : 0.31894744563322186
+k : 2
+window1 : 1
+window2 : 73
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 44.4224
+Standard Deviation : 31.1972
+Sharpe Ratio (Rf=0%):1.3835451700502737
+Max Drawdown: -0.6936
+++++++++++++++++++++++++++++++++++++++
+a : 1.2857544333487692
+b : 0.30266815666915775
+k : 7
+window1 : 4
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 62.5045
+Standard Deviation : 37.8892
+Sharpe Ratio (Rf=0%):1.5236795207291745
+Max Drawdown: -0.6909
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.9261736654085062
+k : 3
+window1 : 4
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 275.9289
+Standard Deviation : 158.4084
+Sharpe Ratio (Rf=0%):1.8985978604985947
+Max Drawdown: -0.6603
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.13847552453390527
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 97.8086
+Standard Deviation : 43.4878
+Sharpe Ratio (Rf=0%):1.88325102809202
+Max Drawdown: -0.4979
+++++++++++++++++++++++++++++++++++++++
+a : 1.3037827909566553
+b : 0.7515780316965528
+k : 2
+window1 : 4
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 397.3002
+Standard Deviation : 236.8518
+Sharpe Ratio (Rf=0%):1.9888034779338815
+Max Drawdown: -0.6739
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.2024914468234489
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 181.7475
+Standard Deviation : 107.867
+Sharpe Ratio (Rf=0%):1.8329138594936014
+Max Drawdown: -0.625
+++++++++++++++++++++++++++++++++++++++
+a : 1.422137554916656
+b : 0.16875312841635232
+k : 2
+window1 : 1
+window2 : 23
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 136.532
+Standard Deviation : 111.9913
+Sharpe Ratio (Rf=0%):1.7367371338054205
+Max Drawdown: -0.693
+++++++++++++++++++++++++++++++++++++++
+a : 1.785429070082568
+b : 0.6071784335666917
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 193.6011
+Standard Deviation : 129.6269
+Sharpe Ratio (Rf=0%):1.9148977237772113
+Max Drawdown: -0.6237
+++++++++++++++++++++++++++++++++++++++
+a : 1.7076725849221828
+b : 0.15997918445295453
+k : 2
+window1 : 1
+window2 : 23
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 472.6568
+Standard Deviation : 316.3479
+Sharpe Ratio (Rf=0%):2.063013060431667
+Max Drawdown: -0.6602
+++++++++++++++++++++++++++++++++++++++
+a : 1.434482739635154
+b : 0.553562186585114
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 202.8472
+Standard Deviation : 131.0027
+Sharpe Ratio (Rf=0%):1.7889895381612928
+Max Drawdown: -0.6943
+++++++++++++++++++++++++++++++++++++++
+a : 1.2417750906096798
+b : 0.3399737038449334
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 46.7899
+Standard Deviation : 41.5723
+Sharpe Ratio (Rf=0%):1.45934524044729
+Max Drawdown: -0.6877
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.9346747039207289
+k : 2
+window1 : 3
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 444.5778
+Standard Deviation : 285.5758
+Sharpe Ratio (Rf=0%):1.9909298114881226
+Max Drawdown: -0.6814
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.39745818991638754
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 156.8837
+Standard Deviation : 127.2875
+Sharpe Ratio (Rf=0%):1.7659797953606995
+Max Drawdown: -0.6858
+++++++++++++++++++++++++++++++++++++++
+a : 1.7789637598970647
+b : 0.6598896412123778
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 258.4513
+Standard Deviation : 157.3427
+Sharpe Ratio (Rf=0%):1.8877912322381754
+Max Drawdown: -0.6656
+++++++++++++++++++++++++++++++++++++++
+a : 1.2597475668834417
+b : 0.10145194226778655
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 270.2742
+Standard Deviation : 206.0132
+Sharpe Ratio (Rf=0%):1.854032283326942
+Max Drawdown: -0.6925
+++++++++++++++++++++++++++++++++++++++
+a : 1.1792225339684874
+b : 0.3664401076049379
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 378.2862
+Standard Deviation : 272.1319
+Sharpe Ratio (Rf=0%):1.9368827879097639
+Max Drawdown: -0.6964
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.5310444913957477
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 471.5043
+Standard Deviation : 304.5696
+Sharpe Ratio (Rf=0%):2.0424283038537245
+Max Drawdown: -0.6374
+++++++++++++++++++++++++++++++++++++++
+a : 1.434482739635154
+b : 0.6886995400706126
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 182.4547
+Standard Deviation : 142.2159
+Sharpe Ratio (Rf=0%):1.769917481049843
+Max Drawdown: -0.6899
+++++++++++++++++++++++++++++++++++++++
+a : 1.1452715308961843
+b : 0.12257439507117072
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 203.093
+Standard Deviation : 136.0376
+Sharpe Ratio (Rf=0%):1.861101928129435
+Max Drawdown: -0.6526
+++++++++++++++++++++++++++++++++++++++
+a : 1.434482739635154
+b : 0.36032512386987725
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 129.8047
+Standard Deviation : 91.0474
+Sharpe Ratio (Rf=0%):1.7590739346600823
+Max Drawdown: -0.6722
+++++++++++++++++++++++++++++++++++++++
+a : 1.5993228302562335
+b : 0.18716747296231268
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 114.35
+Standard Deviation : 67.4141
+Sharpe Ratio (Rf=0%):1.685009534214706
+Max Drawdown: -0.6944
+++++++++++++++++++++++++++++++++++++++
+a : 1.434482739635154
+b : 0.12232161940777274
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 271.9417
+Standard Deviation : 178.6471
+Sharpe Ratio (Rf=0%):1.872523610159544
+Max Drawdown: -0.6936
+++++++++++++++++++++++++++++++++++++++
+a : 1.1887687306571018
+b : 0.2571836220704797
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 109.0867
+Standard Deviation : 78.312
+Sharpe Ratio (Rf=0%):1.6928476125369825
+Max Drawdown: -0.6603
+++++++++++++++++++++++++++++++++++++++
+a : 1.655305364147356
+b : 0.3097397438199912
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 177.9296
+Standard Deviation : 142.8535
+Sharpe Ratio (Rf=0%):1.8193674482855904
+Max Drawdown: -0.6766
+++++++++++++++++++++++++++++++++++++++
+a : 1.7037933258090516
+b : 0.45180014418535597
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 166.2271
+Standard Deviation : 140.6109
+Sharpe Ratio (Rf=0%):1.701916596018382
+Max Drawdown: -0.6964
+++++++++++++++++++++++++++++++++++++++
+a : 1.0790187516820091
+b : 0.4209155111607589
+k : 2
+window1 : 1
+window2 : 71
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 135.8076
+Standard Deviation : 95.1832
+Sharpe Ratio (Rf=0%):1.7723753481114162
+Max Drawdown: -0.6722
+++++++++++++++++++++++++++++++++++++++
+a : 1.5970516812510516
+b : 0.16887450122915246
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 267.0323
+Standard Deviation : 180.5134
+Sharpe Ratio (Rf=0%):1.8519747319791717
+Max Drawdown: -0.6951
+++++++++++++++++++++++++++++++++++++++
+a : 1.434482739635154
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 293.6922
+Standard Deviation : 222.1792
+Sharpe Ratio (Rf=0%):1.8769290387892488
+Max Drawdown: -0.6877
+++++++++++++++++++++++++++++++++++++++
+a : 1.3017248352855977
+b : 0.6886995400706126
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 353.324
+Standard Deviation : 257.3407
+Sharpe Ratio (Rf=0%):2.0006598889857483
+Max Drawdown: -0.6582
+++++++++++++++++++++++++++++++++++++++
+a : 1.6567818490712831
+b : 0.6886995400706126
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 270.2742
+Standard Deviation : 206.0132
+Sharpe Ratio (Rf=0%):1.854032283326942
+Max Drawdown: -0.6925
+++++++++++++++++++++++++++++++++++++++
+a : 1.1792225339684874
+b : 0.3664401076049379
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 392.7252
+Standard Deviation : 286.3607
+Sharpe Ratio (Rf=0%):1.94313477243889
+Max Drawdown: -0.6951
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.5594482391036463
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 83.6683
+Standard Deviation : 58.84
+Sharpe Ratio (Rf=0%):1.6250635051600297
+Max Drawdown: -0.6723
+++++++++++++++++++++++++++++++++++++++
+a : 1.543938029673915
+b : 0.16557509514886792
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 409.1039
+Standard Deviation : 268.3115
+Sharpe Ratio (Rf=0%):1.9884486045059895
+Max Drawdown: -0.6953
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.3567981568754976
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 209.7383
+Standard Deviation : 159.356
+Sharpe Ratio (Rf=0%):1.7770746243710835
+Max Drawdown: -0.6721
+++++++++++++++++++++++++++++++++++++++
+a : 1.263384130354173
+b : 0.7191245735192641
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 166.2271
+Standard Deviation : 140.6109
+Sharpe Ratio (Rf=0%):1.701916596018382
+Max Drawdown: -0.6964
+++++++++++++++++++++++++++++++++++++++
+a : 1.0790187516820091
+b : 0.4209155111607589
+k : 2
+window1 : 1
+window2 : 71
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 609.1977
+Standard Deviation : 415.2472
+Sharpe Ratio (Rf=0%):2.1398041931495553
+Max Drawdown: -0.6294
+++++++++++++++++++++++++++++++++++++++
+a : 1.5864430042438198
+b : 0.6886995400706126
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 246.8198
+Standard Deviation : 141.2474
+Sharpe Ratio (Rf=0%):1.870669506347213
+Max Drawdown: -0.6592
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.12332818199597134
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 303.205
+Standard Deviation : 176.2449
+Sharpe Ratio (Rf=0%):1.9268636739674645
+Max Drawdown: -0.6665
+++++++++++++++++++++++++++++++++++++++
+a : 1.256599965979079
+b : 0.14502532924438338
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 175.3914
+Standard Deviation : 118.2139
+Sharpe Ratio (Rf=0%):1.7812702172064203
+Max Drawdown: -0.6748
+++++++++++++++++++++++++++++++++++++++
+a : 1.2114039617185843
+b : 0.06993427709380211
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 120.1885
+Standard Deviation : 87.6143
+Sharpe Ratio (Rf=0%):1.7175852022426068
+Max Drawdown: -0.6665
+++++++++++++++++++++++++++++++++++++++
+a : 1.6112043963880383
+b : 0.32745957911293305
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 562.5916
+Standard Deviation : 363.9485
+Sharpe Ratio (Rf=0%):2.105185824455654
+Max Drawdown: -0.6504
+++++++++++++++++++++++++++++++++++++++
+a : 1.434482739635154
+b : 0.6194255149940684
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 351.7853
+Standard Deviation : 260.2613
+Sharpe Ratio (Rf=0%):1.9112729436915032
+Max Drawdown: -0.6951
+++++++++++++++++++++++++++++++++++++++
+a : 1.2265611339491853
+b : 0.5599887251169008
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 221.1365
+Standard Deviation : 152.0955
+Sharpe Ratio (Rf=0%):1.7781950809662148
+Max Drawdown: -0.6956
+++++++++++++++++++++++++++++++++++++++
+a : 1.3011798815963163
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 23
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 361.9277
+Standard Deviation : 217.1064
+Sharpe Ratio (Rf=0%):1.9453054418568516
+Max Drawdown: -0.6591
+++++++++++++++++++++++++++++++++++++++
+a : 1.2477175923110593
+b : 0.34390355542892553
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 91.7447
+Standard Deviation : 62.894
+Sharpe Ratio (Rf=0%):1.67006363168734
+Max Drawdown: -0.6549
+++++++++++++++++++++++++++++++++++++++
+a : 1.6773325191945618
+b : 0.12030253793936144
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 204.2494
+Standard Deviation : 117.9382
+Sharpe Ratio (Rf=0%):1.9001580503373534
+Max Drawdown: -0.6107
+++++++++++++++++++++++++++++++++++++++
+a : 1.434482739635154
+b : 0.11808315455820373
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 126.1332
+Standard Deviation : 88.9843
+Sharpe Ratio (Rf=0%):1.7506026937916712
+Max Drawdown: -0.6622
+++++++++++++++++++++++++++++++++++++++
+a : 1.6041795648880126
+b : 0.20924062152941655
+k : 2
+window1 : 1
+window2 : 76
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 148.7044
+Standard Deviation : 92.748
+Sharpe Ratio (Rf=0%):1.8126086747288346
+Max Drawdown: -0.6536
+++++++++++++++++++++++++++++++++++++++
+a : 1.7806796143766896
+b : 0.1697253460569386
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 234.5137
+Standard Deviation : 168.2093
+Sharpe Ratio (Rf=0%):1.8303502262709754
+Max Drawdown: -0.6951
+++++++++++++++++++++++++++++++++++++++
+a : 1.4994712005526611
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 217.2334
+Standard Deviation : 135.5859
+Sharpe Ratio (Rf=0%):1.8305134943232924
+Max Drawdown: -0.6328
+++++++++++++++++++++++++++++++++++++++
+a : 1.4346555669262055
+b : 0.6194255149940684
+k : 2
+window1 : 1
+window2 : 23
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 96.6114
+Standard Deviation : 90.9333
+Sharpe Ratio (Rf=0%):1.6688270991940053
+Max Drawdown: -0.6999
+++++++++++++++++++++++++++++++++++++++
+a : 1.7882996001814897
+b : 0.2615091445327954
+k : 2
+window1 : 1
+window2 : 58
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 211.1028
+Standard Deviation : 129.4424
+Sharpe Ratio (Rf=0%):1.8266744279582101
+Max Drawdown: -0.6585
+++++++++++++++++++++++++++++++++++++++
+a : 1.2183408210442233
+b : 0.09908252212968525
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 232.0577
+Standard Deviation : 143.4354
+Sharpe Ratio (Rf=0%):1.8620760863683206
+Max Drawdown: -0.6938
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.20428237502238505
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 330.2962
+Standard Deviation : 206.3774
+Sharpe Ratio (Rf=0%):2.0866951653510464
+Max Drawdown: -0.6019
+++++++++++++++++++++++++++++++++++++++
+a : 1.5864430042438198
+b : 0.06662396927461606
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 135.0378
+Standard Deviation : 108.9149
+Sharpe Ratio (Rf=0%):1.7252742426944365
+Max Drawdown: -0.6895
+++++++++++++++++++++++++++++++++++++++
+a : 1.526998774477953
+b : 0.47749485846285805
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 715.5587
+Standard Deviation : 487.6087
+Sharpe Ratio (Rf=0%):2.201213351608851
+Max Drawdown: -0.6427
+++++++++++++++++++++++++++++++++++++++
+a : 1.6066600061170098
+b : 0.6194255149940684
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 151.407
+Standard Deviation : 134.5009
+Sharpe Ratio (Rf=0%):1.752428709268106
+Max Drawdown: -0.6987
+++++++++++++++++++++++++++++++++++++++
+a : 1.7114259424720892
+b : 0.6421192574045662
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 104.7705
+Standard Deviation : 72.4594
+Sharpe Ratio (Rf=0%):1.5478954995930008
+Max Drawdown: -0.6687
+++++++++++++++++++++++++++++++++++++++
+a : 1.0978946158018883
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 272.5343
+Standard Deviation : 217.8599
+Sharpe Ratio (Rf=0%):1.8518959485597382
+Max Drawdown: -0.6925
+++++++++++++++++++++++++++++++++++++++
+a : 1.1695009712330224
+b : 0.36337327112577866
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 122.3198
+Standard Deviation : 86.8053
+Sharpe Ratio (Rf=0%):1.7385303877331042
+Max Drawdown: -0.6628
+++++++++++++++++++++++++++++++++++++++
+a : 1.675146269491393
+b : 0.24625153263106406
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 350.429
+Standard Deviation : 265.036
+Sharpe Ratio (Rf=0%):1.9350202628975128
+Max Drawdown: -0.6989
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.6194255149940684
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 291.4435
+Standard Deviation : 205.9301
+Sharpe Ratio (Rf=0%):1.897182934282167
+Max Drawdown: -0.6853
+++++++++++++++++++++++++++++++++++++++
+a : 1.2955978557448122
+b : 0.3720922601567078
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 158.0927
+Standard Deviation : 113.0902
+Sharpe Ratio (Rf=0%):1.8131686398737472
+Max Drawdown: -0.6732
+++++++++++++++++++++++++++++++++++++++
+a : 1.6066600061170098
+b : 0.20924062152941655
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 344.6612
+Standard Deviation : 241.0738
+Sharpe Ratio (Rf=0%):1.9736938467614034
+Max Drawdown: -0.6323
+++++++++++++++++++++++++++++++++++++++
+a : 1.3011798815963163
+b : 0.20134318262058457
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 157.8531
+Standard Deviation : 130.0248
+Sharpe Ratio (Rf=0%):1.7814261754791936
+Max Drawdown: -0.6824
+++++++++++++++++++++++++++++++++++++++
+a : 1.6392270578379327
+b : 0.47749485846285805
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 245.9191
+Standard Deviation : 199.0312
+Sharpe Ratio (Rf=0%):1.9443721934567544
+Max Drawdown: -0.6741
+++++++++++++++++++++++++++++++++++++++
+a : 1.761258254093833
+b : 0.6194255149940684
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 345.0137
+Standard Deviation : 247.1943
+Sharpe Ratio (Rf=0%):1.94076031820682
+Max Drawdown: -0.6884
+++++++++++++++++++++++++++++++++++++++
+a : 1.5864430042438198
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 24
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 156.5403
+Standard Deviation : 124.3567
+Sharpe Ratio (Rf=0%):1.7801767217351319
+Max Drawdown: -0.6811
+++++++++++++++++++++++++++++++++++++++
+a : 1.5864430042438198
+b : 0.3957997915565163
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 191.4374
+Standard Deviation : 145.8197
+Sharpe Ratio (Rf=0%):1.748152510984408
+Max Drawdown: -0.6876
+++++++++++++++++++++++++++++++++++++++
+a : 1.1031123866028252
+b : 0.3175991125317052
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 54.1205
+Standard Deviation : 41.5622
+Sharpe Ratio (Rf=0%):1.5279042270371384
+Max Drawdown: -0.6674
+++++++++++++++++++++++++++++++++++++++
+a : 1.6260029036637225
+b : 0.013623389042200808
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 113.9207
+Standard Deviation : 90.1709
+Sharpe Ratio (Rf=0%):1.6386301530968397
+Max Drawdown: -0.6794
+++++++++++++++++++++++++++++++++++++++
+a : 1.67772255900099
+b : 0.9261736654085062
+k : 2
+window1 : 1
+window2 : 86
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 145.1004
+Standard Deviation : 100.7775
+Sharpe Ratio (Rf=0%):1.7843653850102394
+Max Drawdown: -0.6486
+++++++++++++++++++++++++++++++++++++++
+a : 1.4863325721524323
+b : 0.2030364034732388
+k : 2
+window1 : 1
+window2 : 22
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 291.4435
+Standard Deviation : 205.9301
+Sharpe Ratio (Rf=0%):1.897182934282167
+Max Drawdown: -0.6853
+++++++++++++++++++++++++++++++++++++++
+a : 1.2955978557448122
+b : 0.3720922601567078
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 337.8935
+Standard Deviation : 227.7015
+Sharpe Ratio (Rf=0%):1.9729597476691507
+Max Drawdown: -0.6146
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.12259948174122184
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 126.7145
+Standard Deviation : 86.2773
+Sharpe Ratio (Rf=0%):1.7242201859053965
+Max Drawdown: -0.6843
+++++++++++++++++++++++++++++++++++++++
+a : 1.4923101190094106
+b : 0.2605025504521298
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 89.3836
+Standard Deviation : 65.3978
+Sharpe Ratio (Rf=0%):1.5874333633745168
+Max Drawdown: -0.6592
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.42283338276216836
+k : 2
+window1 : 1
+window2 : 22
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 249.6804
+Standard Deviation : 160.2738
+Sharpe Ratio (Rf=0%):1.871430023990023
+Max Drawdown: -0.6992
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.25173168606880586
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 117.2472
+Standard Deviation : 81.5984
+Sharpe Ratio (Rf=0%):1.7318078121364233
+Max Drawdown: -0.6649
+++++++++++++++++++++++++++++++++++++++
+a : 1.638032366918233
+b : 0.16983141595758758
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 157.116
+Standard Deviation : 117.0302
+Sharpe Ratio (Rf=0%):1.7704093144318527
+Max Drawdown: -0.6989
+++++++++++++++++++++++++++++++++++++++
+a : 1.4663601232988932
+b : 0.37070905168242524
+k : 2
+window1 : 1
+window2 : 71
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 152.6952
+Standard Deviation : 105.8502
+Sharpe Ratio (Rf=0%):1.7361312806147968
+Max Drawdown: -0.6895
+++++++++++++++++++++++++++++++++++++++
+a : 1.4261797064780912
+b : 0.42283338276216836
+k : 2
+window1 : 1
+window2 : 86
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 106.6051
+Standard Deviation : 76.0759
+Sharpe Ratio (Rf=0%):1.6174947389399992
+Max Drawdown: -0.6933
+++++++++++++++++++++++++++++++++++++++
+a : 1.1238346271392021
+b : 0.10627099554424402
+k : 2
+window1 : 1
+window2 : 88
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 110.9391
+Standard Deviation : 80.954
+Sharpe Ratio (Rf=0%):1.702874948302374
+Max Drawdown: -0.6629
+++++++++++++++++++++++++++++++++++++++
+a : 1.6686526806029391
+b : 0.2951243967914906
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 213.5969
+Standard Deviation : 137.9434
+Sharpe Ratio (Rf=0%):1.761464255264145
+Max Drawdown: -0.6846
+++++++++++++++++++++++++++++++++++++++
+a : 1.0321363396117194
+b : 0.25173168606880586
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 274.8428
+Standard Deviation : 178.6027
+Sharpe Ratio (Rf=0%):1.8889365778614056
+Max Drawdown: -0.6986
+++++++++++++++++++++++++++++++++++++++
+a : 1.2573619961953593
+b : 0.23834890828823432
+k : 2
+window1 : 1
+window2 : 78
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 146.6084
+Standard Deviation : 117.8784
+Sharpe Ratio (Rf=0%):1.7455590559974445
+Max Drawdown: -0.6858
+++++++++++++++++++++++++++++++++++++++
+a : 1.7663095958733184
+b : 0.6533273358553187
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 55.7818
+Standard Deviation : 37.0001
+Sharpe Ratio (Rf=0%):1.5354535774500384
+Max Drawdown: -0.6553
+++++++++++++++++++++++++++++++++++++++
+a : 1.7402652861628582
+b : 0.0489063809820281
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 97.152
+Standard Deviation : 77.3708
+Sharpe Ratio (Rf=0%):1.6492634802135608
+Max Drawdown: -0.6482
+++++++++++++++++++++++++++++++++++++++
+a : 1.479800768275659
+b : 0.2704175517666134
+k : 2
+window1 : 1
+window2 : 48
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 149.5965
+Standard Deviation : 104.9097
+Sharpe Ratio (Rf=0%):1.8032542582415272
+Max Drawdown: -0.6654
+++++++++++++++++++++++++++++++++++++++
+a : 1.718387859336901
+b : 0.20924062152941655
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 90.5596
+Standard Deviation : 55.9144
+Sharpe Ratio (Rf=0%):1.6249707740347654
+Max Drawdown: -0.6852
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.02553442201261212
+k : 2
+window1 : 1
+window2 : 87
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 114.0214
+Standard Deviation : 85.9845
+Sharpe Ratio (Rf=0%):1.6369537896354254
+Max Drawdown: -0.6825
+++++++++++++++++++++++++++++++++++++++
+a : 1.1865461888125874
+b : 0.25173168606880586
+k : 2
+window1 : 1
+window2 : 86
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 189.8281
+Standard Deviation : 146.442
+Sharpe Ratio (Rf=0%):1.743108456950829
+Max Drawdown: -0.6876
+++++++++++++++++++++++++++++++++++++++
+a : 1.0729559127004542
+b : 0.32251723767687707
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 214.6485
+Standard Deviation : 149.3738
+Sharpe Ratio (Rf=0%):1.8525587035487383
+Max Drawdown: -0.6947
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.06880518078636894
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 161.1112
+Standard Deviation : 126.8838
+Sharpe Ratio (Rf=0%):1.6832769232869047
+Max Drawdown: -0.6894
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.9171485297282289
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 103.8629
+Standard Deviation : 69.6336
+Sharpe Ratio (Rf=0%):1.6860318604627325
+Max Drawdown: -0.6762
+++++++++++++++++++++++++++++++++++++++
+a : 1.4969193941882424
+b : 0.09750689945897145
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 253.8428
+Standard Deviation : 160.3943
+Sharpe Ratio (Rf=0%):1.8775479214254294
+Max Drawdown: -0.6774
+++++++++++++++++++++++++++++++++++++++
+a : 1.2225887170999996
+b : 0.06480346937800878
+k : 2
+window1 : 1
+window2 : 79
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 259.4963
+Standard Deviation : 183.8817
+Sharpe Ratio (Rf=0%):1.793671728866146
+Max Drawdown: -0.6985
+++++++++++++++++++++++++++++++++++++++
+a : 1.0317157870735356
+b : 0.4160165346216487
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 188.155
+Standard Deviation : 131.8636
+Sharpe Ratio (Rf=0%):1.8460912325779368
+Max Drawdown: -0.6707
+++++++++++++++++++++++++++++++++++++++
+a : 1.7736181630205194
+b : 0.41531144870988507
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 145.3161
+Standard Deviation : 90.1426
+Sharpe Ratio (Rf=0%):1.8005574121358516
+Max Drawdown: -0.6536
+++++++++++++++++++++++++++++++++++++++
+a : 1.7443963694972573
+b : 0.18757086650861513
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 189.1589
+Standard Deviation : 123.1365
+Sharpe Ratio (Rf=0%):1.816726295335639
+Max Drawdown: -0.6947
+++++++++++++++++++++++++++++++++++++++
+a : 1.342631889186763
+b : 0.09706831934726524
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 57.9599
+Standard Deviation : 36.4066
+Sharpe Ratio (Rf=0%):1.5125352528139173
+Max Drawdown: -0.6181
+++++++++++++++++++++++++++++++++++++++
+a : 1.611434232759013
+b : 0.18757086650861513
+k : 6
+window1 : 4
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 53.6289
+Standard Deviation : 51.5385
+Sharpe Ratio (Rf=0%):1.451706070255805
+Max Drawdown: -0.6953
+++++++++++++++++++++++++++++++++++++++
+a : 1.1654101449307568
+b : 0.07941681334923915
+k : 2
+window1 : 1
+window2 : 46
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 351.7853
+Standard Deviation : 260.2613
+Sharpe Ratio (Rf=0%):1.9112729436915032
+Max Drawdown: -0.6951
+++++++++++++++++++++++++++++++++++++++
+a : 1.2250022040090154
+b : 0.5611635761897503
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 47.5411
+Standard Deviation : 40.3597
+Sharpe Ratio (Rf=0%):1.4937327116390322
+Max Drawdown: -0.6914
+++++++++++++++++++++++++++++++++++++++
+a : 1.7939527030967253
+b : 0.16969580939577694
+k : 2
+window1 : 1
+window2 : 62
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 128.2761
+Standard Deviation : 81.5355
+Sharpe Ratio (Rf=0%):1.7592598465521077
+Max Drawdown: -0.6549
+++++++++++++++++++++++++++++++++++++++
+a : 1.7670924576398575
+b : 0.2361032105096719
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 152.8494
+Standard Deviation : 121.5574
+Sharpe Ratio (Rf=0%):1.7518868675277075
+Max Drawdown: -0.6866
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.41531144870988507
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 404.9056
+Standard Deviation : 262.6335
+Sharpe Ratio (Rf=0%):1.9900185573149465
+Max Drawdown: -0.6983
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.37565885719026354
+k : 2
+window1 : 1
+window2 : 81
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 54.5867
+Standard Deviation : 40.9644
+Sharpe Ratio (Rf=0%):1.530440131419904
+Max Drawdown: -0.6567
+++++++++++++++++++++++++++++++++++++++
+a : 1.6622850776427947
+b : 0.04249899089552722
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 219.514
+Standard Deviation : 166.4731
+Sharpe Ratio (Rf=0%):1.789485211032099
+Max Drawdown: -0.692
+++++++++++++++++++++++++++++++++++++++
+a : 1.086780149241101
+b : 0.25724590944952785
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 133.0406
+Standard Deviation : 74.6409
+Sharpe Ratio (Rf=0%):1.656315373606737
+Max Drawdown: -0.682
+++++++++++++++++++++++++++++++++++++++
+a : 1.063946399509628
+b : 0.18553877269411695
+k : 2
+window1 : 1
+window2 : 84
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 283.2987
+Standard Deviation : 200.8837
+Sharpe Ratio (Rf=0%):1.8162196815914222
+Max Drawdown: -0.6985
+++++++++++++++++++++++++++++++++++++++
+a : 1.037256556945669
+b : 0.41531144870988507
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 338.0336
+Standard Deviation : 248.6422
+Sharpe Ratio (Rf=0%):1.9036839842096627
+Max Drawdown: -0.6951
+++++++++++++++++++++++++++++++++++++++
+a : 1.2184352930292046
+b : 0.5431031231025409
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 125.2644
+Standard Deviation : 86.9524
+Sharpe Ratio (Rf=0%):1.7349088687340133
+Max Drawdown: -0.6476
+++++++++++++++++++++++++++++++++++++++
+a : 1.735149739076934
+b : 0.32974467884434017
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 53.7364
+Standard Deviation : 38.4954
+Sharpe Ratio (Rf=0%):1.4966012146887642
+Max Drawdown: -0.6745
+++++++++++++++++++++++++++++++++++++++
+a : 1.467269563570098
+b : 0.06039311391299851
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 259.5741
+Standard Deviation : 170.2686
+Sharpe Ratio (Rf=0%):1.8986393254827303
+Max Drawdown: -0.6996
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.10560948916695378
+k : 2
+window1 : 1
+window2 : 79
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 145.3727
+Standard Deviation : 94.6762
+Sharpe Ratio (Rf=0%):1.7913304996115487
+Max Drawdown: -0.6527
+++++++++++++++++++++++++++++++++++++++
+a : 1.7878061991108192
+b : 0.28744148250863866
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 291.6967
+Standard Deviation : 202.8209
+Sharpe Ratio (Rf=0%):1.8275474628814052
+Max Drawdown: -0.6994
+++++++++++++++++++++++++++++++++++++++
+a : 1.0490279125360398
+b : 0.48350097995994396
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 210.5886
+Standard Deviation : 152.8613
+Sharpe Ratio (Rf=0%):1.8021003572403214
+Max Drawdown: -0.6506
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.41302028317262823
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 49.0598
+Standard Deviation : 43.6836
+Sharpe Ratio (Rf=0%):1.4496899001478543
+Max Drawdown: -0.6803
+++++++++++++++++++++++++++++++++++++++
+a : 1.2458623100698896
+b : 0.046479961462319835
+k : 2
+window1 : 1
+window2 : 51
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 139.5766
+Standard Deviation : 107.057
+Sharpe Ratio (Rf=0%):1.7370424511268754
+Max Drawdown: -0.6885
+++++++++++++++++++++++++++++++++++++++
+a : 1.5183706163717456
+b : 0.41302028317262823
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 136.3953
+Standard Deviation : 108.1846
+Sharpe Ratio (Rf=0%):1.7373916591217513
+Max Drawdown: -0.6834
+++++++++++++++++++++++++++++++++++++++
+a : 1.5711167014774894
+b : 0.4160165346216487
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 96.3557
+Standard Deviation : 61.7878
+Sharpe Ratio (Rf=0%):1.696936112531923
+Max Drawdown: -0.6437
+++++++++++++++++++++++++++++++++++++++
+a : 1.7978750286573746
+b : 0.09287238276236934
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 150.0839
+Standard Deviation : 117.7918
+Sharpe Ratio (Rf=0%):1.7633749813632154
+Max Drawdown: -0.6834
+++++++++++++++++++++++++++++++++++++++
+a : 1.5572840887929347
+b : 0.41302028317262823
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 338.0336
+Standard Deviation : 248.6422
+Sharpe Ratio (Rf=0%):1.9036839842096627
+Max Drawdown: -0.6951
+++++++++++++++++++++++++++++++++++++++
+a : 1.2184352930292046
+b : 0.5431031231025409
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 138.6086
+Standard Deviation : 90.3149
+Sharpe Ratio (Rf=0%):1.7783323100043489
+Max Drawdown: -0.6527
+++++++++++++++++++++++++++++++++++++++
+a : 1.7732362878287318
+b : 0.2802577584600927
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 163.3686
+Standard Deviation : 125.5668
+Sharpe Ratio (Rf=0%):1.7987095015701797
+Max Drawdown: -0.6804
+++++++++++++++++++++++++++++++++++++++
+a : 1.6981256658452972
+b : 0.41531144870988507
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 95.3342
+Standard Deviation : 67.2092
+Sharpe Ratio (Rf=0%):1.6731103070765465
+Max Drawdown: -0.6635
+++++++++++++++++++++++++++++++++++++++
+a : 1.5845840276182315
+b : 0.13419819814235817
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 210.4013
+Standard Deviation : 153.1
+Sharpe Ratio (Rf=0%):1.749645799588537
+Max Drawdown: -0.6866
+++++++++++++++++++++++++++++++++++++++
+a : 1.0490279125360398
+b : 0.48350097995994396
+k : 2
+window1 : 1
+window2 : 71
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 385.7888
+Standard Deviation : 253.3237
+Sharpe Ratio (Rf=0%):1.95096513900018
+Max Drawdown: -0.6843
+++++++++++++++++++++++++++++++++++++++
+a : 1.234155067454752
+b : 0.41531144870988507
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 212.4473
+Standard Deviation : 138.8923
+Sharpe Ratio (Rf=0%):1.8480089239664865
+Max Drawdown: -0.6979
+++++++++++++++++++++++++++++++++++++++
+a : 1.3252776884359432
+b : 0.10560948916695378
+k : 2
+window1 : 1
+window2 : 79
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 139.0717
+Standard Deviation : 89.0773
+Sharpe Ratio (Rf=0%):1.7713809477886941
+Max Drawdown: -0.6394
+++++++++++++++++++++++++++++++++++++++
+a : 1.7772821179720562
+b : 0.33647875403655386
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 126.9545
+Standard Deviation : 107.7711
+Sharpe Ratio (Rf=0%):1.7538962566735683
+Max Drawdown: -0.683
+++++++++++++++++++++++++++++++++++++++
+a : 1.7881255360668384
+b : 0.5134115353243683
+k : 2
+window1 : 1
+window2 : 21
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 143.681
+Standard Deviation : 110.9999
+Sharpe Ratio (Rf=0%):1.7694272313834718
+Max Drawdown: -0.6842
+++++++++++++++++++++++++++++++++++++++
+a : 1.6403408158898598
+b : 0.41302028317262823
+k : 2
+window1 : 1
+window2 : 77
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 210.5886
+Standard Deviation : 152.8613
+Sharpe Ratio (Rf=0%):1.8021003572403214
+Max Drawdown: -0.6506
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.41302028317262823
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 91.2143
+Standard Deviation : 69.3454
+Sharpe Ratio (Rf=0%):1.6339855027522698
+Max Drawdown: -0.6972
+++++++++++++++++++++++++++++++++++++++
+a : 1.4274427342616842
+b : 0.04847153890085962
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 337.8414
+Standard Deviation : 202.1832
+Sharpe Ratio (Rf=0%):1.9411279416316676
+Max Drawdown: -0.672
+++++++++++++++++++++++++++++++++++++++
+a : 1.234155067454752
+b : 0.22541779654845714
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 218.6746
+Standard Deviation : 164.9208
+Sharpe Ratio (Rf=0%):1.7786607325739308
+Max Drawdown: -0.682
+++++++++++++++++++++++++++++++++++++++
+a : 1.0981379292147384
+b : 0.3446802030318269
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 282.4821
+Standard Deviation : 222.7655
+Sharpe Ratio (Rf=0%):1.8334581821640001
+Max Drawdown: -0.6932
+++++++++++++++++++++++++++++++++++++++
+a : 1.0668368197739468
+b : 0.41015473326236024
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 178.2162
+Standard Deviation : 144.2111
+Sharpe Ratio (Rf=0%):1.819342653945687
+Max Drawdown: -0.6814
+++++++++++++++++++++++++++++++++++++++
+a : 1.6891594860805013
+b : 0.46678978341352506
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 178.0432
+Standard Deviation : 132.4109
+Sharpe Ratio (Rf=0%):1.741780542645933
+Max Drawdown: -0.6988
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.8415221999275665
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+------FINALLY---------------------------------------
+Return : 376.3728
+Standard Deviation : 230.4344
+Sharpe Ratio (Rf=0%):1.9794816193155995
+Max Drawdown: -0.6807
+++++++++++++++++++++++++++++++++++++++
+a : 1.2646048874382692
+b : 0.19874194605530238
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 214.8433
+Standard Deviation : 153.1254
+Sharpe Ratio (Rf=0%):1.8066993583605282
+Max Drawdown: -0.6429
+++++++++++++++++++++++++++++++++++++++
+a : 1.2958442386217608
+b : 0.41531144870988507
+k : 2
+window1 : 1
+window2 : 20
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 128.8067
+Standard Deviation : 98.763
+Sharpe Ratio (Rf=0%):1.7158167447012087
+Max Drawdown: -0.6885
+++++++++++++++++++++++++++++++++++++++
+a : 1.5309541921125278
+b : 0.41531144870988507
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 151.076
+Standard Deviation : 118.1245
+Sharpe Ratio (Rf=0%):1.773101533691831
+Max Drawdown: -0.6804
+++++++++++++++++++++++++++++++++++++++
+a : 1.6500805324257315
+b : 0.41302028317262823
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 184.726
+Standard Deviation : 127.2564
+Sharpe Ratio (Rf=0%):1.8421749827230351
+Max Drawdown: -0.663
+++++++++++++++++++++++++++++++++++++++
+a : 1.788854723357048
+b : 0.39421005352407046
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 185.4906
+Standard Deviation : 138.3072
+Sharpe Ratio (Rf=0%):1.8315873692639684
+Max Drawdown: -0.6814
+++++++++++++++++++++++++++++++++++++++
+a : 1.6654877218900297
+b : 0.44891464371090345
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 130.1627
+Standard Deviation : 102.8111
+Sharpe Ratio (Rf=0%):1.7012660086805704
+Max Drawdown: -0.6866
+++++++++++++++++++++++++++++++++++++++
+a : 1.301446918260583
+b : 0.44891464371090345
+k : 2
+window1 : 1
+window2 : 25
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 205.045
+Standard Deviation : 125.0087
+Sharpe Ratio (Rf=0%):1.750820215581429
+Max Drawdown: -0.6941
+++++++++++++++++++++++++++++++++++++++
+a : 1.020119594469239
+b : 0.14749821859165588
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+------FINALLY---------------------------------------
+Return : 154.9304
+Standard Deviation : 134.237
+Sharpe Ratio (Rf=0%):1.7718835486774926
+Max Drawdown: -0.6985
+++++++++++++++++++++++++++++++++++++++
+a : 1.6253677887141567
+b : 0.5107241349300223
+k : 2
+window1 : 1
+window2 : 75
+Z-score : get_z_socre_two_windows
+-------------------------------------
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence
+except: attempt to get argmax of an empty sequence

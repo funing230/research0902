@@ -1,0 +1,54 @@
+Traceback (most recent call last):
+  File "C:/Users/ssel512/PycharmProjects/research0902/HRHP/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 162, in <module>
+    best_agent = model.solve(problem)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 229, in solve
+    self.initialization()
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 135, in initialization
+    self.pop = self.generate_population(self.pop_size)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 332, in generate_population
+    pop = [self.generate_agent() for _ in range(0, pop_size)]
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 332, in <listcomp>
+    pop = [self.generate_agent() for _ in range(0, pop_size)]
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 305, in generate_agent
+    agent.target = self.get_target(agent.solution)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 406, in get_target
+    return self.problem.get_target(solution)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\utils\problem.py", line 200, in get_target
+    objs = self.obj_func(solution)
+  File "C:/Users/ssel512/PycharmProjects/research0902/HRHP/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 86, in obj_func
+    port_out_z_score_singel = tests.at[tests.index[i], 'rbtc_ret']
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\indexes\base.py", line 5175, in __getitem__
+    return getitem(key)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\arrays\datetimelike.py", line 370, in __getitem__
+    "Union[DatetimeLikeArrayT, DTScalarOrNaT]", super().__getitem__(key)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\arrays\_mixins.py", line 274, in __getitem__
+    return self._box_func(result)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\arrays\datetimes.py", line 529, in _box_func
+    value = x.view("i8")
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "C:/Users/ssel512/PycharmProjects/research0902/HRHP/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 162, in <module>
+    best_agent = model.solve(problem)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 229, in solve
+    self.initialization()
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 135, in initialization
+    self.pop = self.generate_population(self.pop_size)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 332, in generate_population
+    pop = [self.generate_agent() for _ in range(0, pop_size)]
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 332, in <listcomp>
+    pop = [self.generate_agent() for _ in range(0, pop_size)]
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 305, in generate_agent
+    agent.target = self.get_target(agent.solution)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\optimizer.py", line 406, in get_target
+    return self.problem.get_target(solution)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\mealpy\utils\problem.py", line 200, in get_target
+    objs = self.obj_func(solution)
+  File "C:/Users/ssel512/PycharmProjects/research0902/HRHP/1.GA&Labeling_hyper-parameter_20171109-20220401/~1-------------TBL_problem.py", line 86, in obj_func
+    port_out_z_score_singel = tests.at[tests.index[i], 'rbtc_ret']
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\indexes\base.py", line 5175, in __getitem__
+    return getitem(key)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\arrays\datetimelike.py", line 370, in __getitem__
+    "Union[DatetimeLikeArrayT, DTScalarOrNaT]", super().__getitem__(key)
+  File "D:\anaconda3\envs\pyGPU1117\lib\site-packages\pandas\core\arrays\_mixins.py", line 272, in __getitem__
+    result = self._ndarray[key]
+KeyboardInterrupt
