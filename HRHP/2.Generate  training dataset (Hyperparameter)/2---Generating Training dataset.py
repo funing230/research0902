@@ -111,7 +111,18 @@ window2 = 79
 # window1 =19
 # window2 = 86
 
-
+# ------FINALLY-----------20240102----------------------------
+# Return : 754.3731
+# Standard Deviation : 508.086
+# Sharpe Ratio (Rf=0%):2.216368786900686
+# Max Drawdown: -0.6334
+# ++++++++++++++++++++++++++++++++++++++
+# a = 1.5896636165637548
+# b = 0.613441938672591
+# k = 2
+# window1 = 1
+# window2 = 24
+# Z-score : get_z_socre_two_windows
 
 # -------------------------------The hyperparameter obtained by GA----------------
 

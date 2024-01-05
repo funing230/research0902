@@ -27,7 +27,7 @@ from result_util import get_pair_strategy_return
 
 
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-12-01'
+testing_end_index = '2024-01-01'
 
 BTC = yf.download('BTC-USD', start=testing_start_index, end=testing_end_index) # start=datetime(2017, 11, 9), end=datetime(2018, 12, 31)
 ETH = yf.download('ETH-USD',start=testing_start_index, end=testing_end_index)  #start=datetime(2018, 1, 1), end=datetime(2019, 9, 1)
@@ -106,7 +106,18 @@ window2 = 79
 # k = 5
 # window1 =19
 # window2 = 86
-
+# ------FINALLY-----------20240102----------------------------
+# Return : 754.3731
+# Standard Deviation : 508.086
+# Sharpe Ratio (Rf=0%):2.216368786900686
+# Max Drawdown: -0.6334
+# ++++++++++++++++++++++++++++++++++++++
+# a = 1.5896636165637548
+# b = 0.613441938672591
+# k = 2
+# window1 = 1
+# window2 = 24
+# Z-score : get_z_socre_two_windows
 
 # -------------------------------The hyperparameter obtained by GA----------------
 

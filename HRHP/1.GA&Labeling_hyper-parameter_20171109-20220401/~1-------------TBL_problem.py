@@ -94,9 +94,9 @@ class TBl_problem(Problem):
             port_outa_z_score_singel = (1 + tests['port_outa_z_score_singel']).cumprod() # accumulative return
 
             MDD = get_mdd(port_outa_z_score_singel)
-            # sharp_ratio=calculate_sharpe_ratio(tests['port_outa_z_score_singel'])
-            if abs(MDD) < 0.3 and np.round(port_outa_z_score_singel.iloc[-1], 4) > 60:
-            # if sharp_ratio>2.1 :
+            sharp_ratio=calculate_sharpe_ratio(tests['port_outa_z_score_singel'])
+            # if abs(MDD) < 0.3 and np.round(port_outa_z_score_singel.iloc[-1], 4) > 60:
+            if sharp_ratio>2 :
                 # print("Condition met")
                 print("------FINALLY---------------------------------------")
                 print("Return : " + str(np.round(port_outa_z_score_singel.iloc[-1], 4)))
@@ -116,8 +116,8 @@ class TBl_problem(Problem):
             print("except:", e)
 
         # fitness=[np.round(port_outa_z_score_singel.iloc[-1], 4), np.round(MDD+10, 4)]
-        # fitness = calculate_sharpe_ratio(tests['port_outa_z_score_singel'])
-        fitness = np.round(MDD + 1, 4)
+        fitness = calculate_sharpe_ratio(tests['port_outa_z_score_singel'])
+        # fitness = np.round(MDD + 1, 4)
         return fitness
 
 
@@ -133,8 +133,9 @@ class Logger(object):
     def flush(self):
 	    pass
 
-sys.stdout = Logger("1209MDD.log", sys.stdout)
-sys.stderr = Logger("test_error1209MDD.log", sys.stderr)		# redirect std err, if necessary
+sys.stdout = Logger("20240102MDD.log", sys.stdout)
+sys.stderr = Logger("test_error20240102MDD.log", sys.stderr)		# redirect std err, if necessary
+
 
 
 

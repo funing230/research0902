@@ -7,7 +7,7 @@ from util import get_data_raw,train_test_split,\
 
 #testing data
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-12-01'
+testing_end_index = '2024-01-01'
 
 
 drop_columns=['BTC_RET', 'ETH_RET','rbtc_ret','reth_ret',

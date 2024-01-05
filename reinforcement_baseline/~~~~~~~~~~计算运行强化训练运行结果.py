@@ -88,8 +88,8 @@ def get_mdd(x):
 
 
 # 1. Descargar datos
-start_date = "2022-08-26"
-end_date = "2023-12-01"
+start_date = "2017-11-09"
+end_date = "2022-08-31"
 pairs = [('BTC-USD', 'ETH-USD')]
 
 N = 5  # Window size for state

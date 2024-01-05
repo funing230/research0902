@@ -26,7 +26,7 @@ from result_util import get_pairstrategy_return_for_test
 
 # Considering the consistency of the data (moving average window), the entire data set is used
 testing_start_index = '2022-09-01'
-testing_end_index = '2023-12-01'
+testing_end_index = '2024-01-01'
 
 BTC = yf.download('BTC-USD', start=testing_start_index, end=testing_end_index) # start=datetime(2017, 11, 9), end=datetime(2018, 12, 31)
 ETH = yf.download('ETH-USD',start=testing_start_index, end=testing_end_index)  #start=datetime(2018, 1, 1), end=datetime(2019, 9, 1)
@@ -100,7 +100,18 @@ window2 = 79
 # k = 5
 # window1 =19
 # window2 = 86
-
+# ------FINALLY-----------20240102----------------------------
+# Return : 754.3731
+# Standard Deviation : 508.086
+# Sharpe Ratio (Rf=0%):2.216368786900686
+# Max Drawdown: -0.6334
+# ++++++++++++++++++++++++++++++++++++++
+# a = 1.5896636165637548
+# b = 0.613441938672591
+# k = 2
+# window1 = 1
+# window2 = 24
+# Z-score : get_z_socre_two_windows
 
 # -------------------------------The hyperparameter obtained by GA----------------
 # btc_R ,eth_R
@@ -247,12 +258,12 @@ plt.rcParams.update({'font.size':10})
 ax = plt.axes()
 ax.xaxis.set_major_locator(plt.MaxNLocator(40))
 plt.xticks(rotation=45)
-plt.plot(predict_port_outa_for_lable, label='Machine Learning Model Prediction',color='r')
-plt.plot(final_label_reinforcement, label='cumulative return reinforcement',color='Blue')
-plt.plot(port_outa_pair_trading, label='Cumulative return on Pair Trading Strategy',color='y')
-plt.plot(bh_btc_test, label='Cumulative return on Buy and Hold Bitcoin',color='g')
-plt.plot(bh_eth_test, label='Cumulative return on Buy and Hold Ethereum',color='Purple')
-plt.title('Cumulative Returns of Machine Learning Model Predicted Trading Signals')
+plt.plot(predict_port_outa_for_lable, label='HRHP-trained Model',color='r')
+plt.plot(final_label_reinforcement, label='AI Regression Model',color='Blue')
+plt.plot(port_outa_pair_trading, label='Pair Trading Strategy',color='y')
+plt.plot(bh_btc_test, label='Buy and Hold Bitcoin',color='g')
+plt.plot(bh_eth_test, label='Buy and Hold Ethereum',color='Purple')
+plt.title('Cumulative Returns')
 plt.xlabel("Date")
 plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
 plt.suptitle('Cumulative Returns')
