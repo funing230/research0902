@@ -24,7 +24,7 @@ class TBl_problem(Problem):
         return {
             "a": a,
             "b": b,
-            "k": k,
+            "k": k,   #123
             "window1":window1,
             "window2": window2,
             "function_integer":function_integer

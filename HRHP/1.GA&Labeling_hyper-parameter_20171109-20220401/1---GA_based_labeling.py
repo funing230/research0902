@@ -130,7 +130,7 @@ class HybridMlp:
                 print('++++++++++++++++++++++++++++++++++++++')
                 print("a : " + str(a))
                 print("b : " + str(b))
-                print("k : " + str(k))
+                print("k : " + str(k))#123
                 print("window1 : " + str(window1))
                 print("window2 : " + str(window2))
                 print("Z-score : "+ str(function_name))
